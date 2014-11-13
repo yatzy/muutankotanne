@@ -5,7 +5,7 @@ test <- GET(url="https://api.domain.com/store/data/unique_indentifier/_query?inp
 tess = GET("http://google.com/"
     , path = "search"
     , query = list(q = "ham")
-    , authenticate("juha.lehtiranta", "gayhra86") 
+    , authenticate("juha.lehtiranta", "salasana") 
     )
 
 GET("https://raw.githubusercontent.com/bagder/ca-bundle/master/ca-bundle.crt",

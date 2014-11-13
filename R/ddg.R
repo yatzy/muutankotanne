@@ -1,3 +1,6 @@
+library('RCurl')
+library('XML')
+
 complement_ddg_url = function(url){
    if( substr(url , 1 , 1) =='/' ){
       return( replacement = sub('/' , 'www.' , url) )
@@ -22,4 +25,10 @@ extract_ddg_links = function(keyword){
 
 
 # EXAMPLE
-# extract_ddg_links('kamppi')
+# kamppi_urls = extract_ddg_links('kamppi')
+# link = kamppi_urls[1]
+
+get_url_content = function(link){
+   cont = htmlTreeParse(getURL(link) ,  useInternal = TRUE)
+   cont <- xpathApply(cont, "//body//text()[not(ancestor::script)][not(ancestor::style)][not(ancestor::noscript)]", xmlValue)
+}
