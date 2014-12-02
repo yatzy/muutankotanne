@@ -3,8 +3,14 @@ library(jsonlite)
 
 AlueMap = function(address)
 {
-    #curlGlobalInit()
-    #urlformat   = 'http://nominatim.openstreetmap.org/search?q=%s+%s,+%s&format=json&polygon=0&addressdetails=1'
+    # Gets location data form a given address.
+    #
+    # Args:
+    #   address: Given address.
+    #
+    # Returns:
+    #   An object with the address data.
+
     properaddress   = gsub(' ','+',address)
     urlformat   = 'http://nominatim.openstreetmap.org/search?q=%s&format=json&polygon=0&addressdetails=1'
     searchurl   = sprintf(urlformat,properaddress)
