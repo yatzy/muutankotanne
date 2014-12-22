@@ -1,0 +1,1856 @@
+<list>
+    <name__fi>Kulttuuri ja vapaa-aika</name__fi>
+    <children>
+        <name__fi>Kulttuuripalvelujen sähköinen asiointi ja lomakkeet</name__fi>
+        <name__fi>Kirjastot</name__fi>
+        <children>
+            <name__fi>Kirjastoautot ja pysäkit</name__fi>
+            <name__fi>Yleiset kirjastot</name__fi>
+            <name__fi>Erikoiskirjastot</name__fi>
+            <name__fi>Laitoskirjastot</name__fi>
+        </children>
+        <name__fi>Kulttuuritilat</name__fi>
+        <children>
+            <name__fi>Konserttitilat</name__fi>
+            <name__fi>Kulttuurin monitoimitalot</name__fi>
+            <name__fi>Elokuvateatterit</name__fi>
+            <name__fi>Näyttelytilat</name__fi>
+            <name__fi>Tanssitilat</name__fi>
+            <name__fi>Teatterit</name__fi>
+            <name__fi>Kurssitoiminta</name__fi>
+            <name__fi>Ooppera ja baletti</name__fi>
+        </children>
+        <name__fi>Museot</name__fi>
+        <name__fi>Veistokset ja julkinen taide</name__fi>
+        <name__fi>Kirkot ja muut uskonnolliset tilat</name__fi>
+        <name__fi>Puistot ja viheralueet</name__fi>
+        <children>
+            <name__fi>Koira-alueet</name__fi>
+            <children>
+                <name__fi>Koirauimarannat</name__fi>
+                <name__fi>Koira-aitaukset</name__fi>
+                <name__fi>Opaskoira-aitaukset</name__fi>
+                <name__fi>Koirametsät</name__fi>
+                <name__fi>Koirakäymälät</name__fi>
+            </children>
+            <name__fi>Viheralueet</name__fi>
+            <name__fi>Leikkipuistot</name__fi>
+            <children>
+                <name__fi>Muut leikkipaikat</name__fi>
+                <name__fi>Leikkipuistotoiminta</name__fi>
+            </children>
+            <name__fi>Kahluualtaat</name__fi>
+        </children>
+        <name__fi>Puutarhapalstat</name__fi>
+        <name__fi>Kasvitieteelliset puutarhat</name__fi>
+        <name__fi>Mattolaiturit</name__fi>
+        <name__fi>Nuoriso</name__fi>
+        <children>
+            <name__fi>Nuorten neuvonta ja ohjaus</name__fi>
+            <name__fi>Harrasteet</name__fi>
+            <children>
+                <name__fi>Värjäys</name__fi>
+                <name__fi>Animaatio</name__fi>
+                <name__fi>Ansiokurssit</name__fi>
+                <name__fi>Askartelu</name__fi>
+                <name__fi>ATK tietokone</name__fi>
+                <name__fi>Auditorio</name__fi>
+                <name__fi>Autojen huolto</name__fi>
+                <name__fi>Av- ja leirivälinelainaamo</name__fi>
+                <name__fi>Avoin nuorisotoiminta</name__fi>
+                <name__fi>Biljardi</name__fi>
+                <name__fi>Bänditila</name__fi>
+                <name__fi>Bänditoiminta</name__fi>
+                <name__fi>Demostudio</name__fi>
+                <name__fi>Diskotanssi</name__fi>
+                <name__fi>Ekotoiminta</name__fi>
+                <name__fi>Elokuva</name__fi>
+                <name__fi>Eläintenhoito</name__fi>
+                <name__fi>Fillari- ja moottoripaja</name__fi>
+                <name__fi>Huovutus</name__fi>
+                <name__fi>Internet</name__fi>
+                <name__fi>Jooga</name__fi>
+                <name__fi>Järjestötoiminta</name__fi>
+                <name__fi>Kalastus</name__fi>
+                <name__fi>Kankaanpainanta</name__fi>
+                <name__fi>Karting</name__fi>
+                <name__fi>Keramiikka</name__fi>
+                <name__fi>Kerhotoiminta</name__fi>
+                <name__fi>Kesätoiminta</name__fi>
+                <name__fi>Kiipeily</name__fi>
+                <name__fi>Kirjoittaminen</name__fi>
+                <name__fi>Kivenhionta</name__fi>
+                <name__fi>Kokkikerho</name__fi>
+                <name__fi>Konsolipelit</name__fi>
+                <name__fi>Koripallo</name__fi>
+                <name__fi>Korut</name__fi>
+                <name__fi>Kuntosali</name__fi>
+                <name__fi>Kurssit</name__fi>
+                <name__fi>Kuvataide</name__fi>
+                <name__fi>Kädentaidot</name__fi>
+                <name__fi>Käsityöt</name__fi>
+                <name__fi>Lasityöt</name__fi>
+                <name__fi>Laskettelu</name__fi>
+                <name__fi>Lautapelit</name__fi>
+                <name__fi>Lehti</name__fi>
+                <name__fi>Leiritoiminta</name__fi>
+                <name__fi>Lempibussi</name__fi>
+                <name__fi>Liikunta</name__fi>
+                <name__fi>Lumilautailu</name__fi>
+                <name__fi>Luontokerhot</name__fi>
+                <name__fi>Luontotoiminta</name__fi>
+                <name__fi>Media</name__fi>
+                <name__fi>Melonta</name__fi>
+                <name__fi>Mikroautoilu</name__fi>
+                <name__fi>Monistuspalvelu</name__fi>
+                <name__fi>Moottorihalli</name__fi>
+                <name__fi>Mopokerho</name__fi>
+                <name__fi>Mopokoulu</name__fi>
+                <name__fi>Musiikki</name__fi>
+                <name__fi>Mönkijäkerho</name__fi>
+                <name__fi>Ompelu</name__fi>
+                <name__fi>Pelit</name__fi>
+                <name__fi>Piano</name__fi>
+                <name__fi>Pingis</name__fi>
+                <name__fi>Poikakerho / poikaryhmät</name__fi>
+                <name__fi>Polkuautokoulu</name__fi>
+                <name__fi>Pulmakulma</name__fi>
+                <name__fi>Puutyö</name__fi>
+                <name__fi>Pyöräkoulu</name__fi>
+                <name__fi>Pöytäfutis</name__fi>
+                <name__fi>Pöytäjääkiekko</name__fi>
+                <name__fi>Radio</name__fi>
+                <name__fi>RC-autokerho</name__fi>
+                <name__fi>Retkeily</name__fi>
+                <name__fi>Sarjakuvat</name__fi>
+                <name__fi>Seikkailukerho</name__fi>
+                <name__fi>Seinäkiipeily</name__fi>
+                <name__fi>Shakki</name__fi>
+                <name__fi>Soitonopetus</name__fi>
+                <name__fi>Tanssi</name__fi>
+                <name__fi>Tanssiteatteri</name__fi>
+                <name__fi>Tapahtumatuottajakoulutus</name__fi>
+                <name__fi>Teatteri</name__fi>
+                <name__fi>Tiedotus ja neuvonta</name__fi>
+                <name__fi>Tietoteema-workshop</name__fi>
+                <name__fi>Tuunaus</name__fi>
+                <name__fi>Tyttökerho / tyttöryhmät</name__fi>
+                <name__fi>Valokuvaus</name__fi>
+                <name__fi>Verkkopelaaminen</name__fi>
+                <name__fi>Video</name__fi>
+                <name__fi>Viikonlopputoiminta</name__fi>
+            </children>
+        </children>
+        <name__fi>Tilojen vuokraus ja varaus</name__fi>
+        <children>
+            <name__fi>Vapaa-ajan tilojen vuokraus</name__fi>
+            <children>
+                <name__fi>Tilaussaunat</name__fi>
+                <name__fi>Nuorisotilat</name__fi>
+                <name__fi>Harrastustilat</name__fi>
+                <name__fi>Kokous- ja juhlatilat</name__fi>
+            </children>
+            <name__fi>Kauppahalli- ja torimyyntipaikkojen vuokraus</name__fi>
+            <name__fi>Yritystilojen vuokraus</name__fi>
+            <children>
+                <name__fi>Teurastamon tilojen vuokraus</name__fi>
+                <name__fi>Liike-, toimisto-, tuotanto- ja varastotilojen vuokraus</name__fi>
+                <name__fi>Pakastamon tilavuokraus</name__fi>
+                <name__fi>Vihertukkutorin ja Vihertukkuhallin tilojen vuokraus</name__fi>
+            </children>
+        </children>
+        <name__fi>Ruoka - ja cateringpalvelut</name__fi>
+    </children>
+    <name__fi>Elinkeino, työ ja verotus</name__fi>
+    <children>
+        <name__fi>Elinkeinopalvelujen sähköinen asiointi ja lomakkeet</name__fi>
+        <name__fi>Elinkeinoasiat</name__fi>
+        <name__fi>Yritysneuvonta</name__fi>
+        <children>
+            <name__fi>Maahanmuuttajayrittäjien neuvonta</name__fi>
+            <name__fi>Alkavien yrittäjien neuvonta</name__fi>
+        </children>
+        <name__fi>Markkinointi</name__fi>
+        <children>
+            <name__fi>Matkailumarkkinointi</name__fi>
+            <name__fi>Elinkeinomarkkinointi</name__fi>
+        </children>
+        <name__fi>Julkinen notaari</name__fi>
+        <name__fi>Kauppa- ja yhdistysrekisteri</name__fi>
+        <name__fi>Kaupanvahvistus</name__fi>
+        <name__fi>Työ- ja elinkeinotoimistot</name__fi>
+        <name__fi>Avoimet työpaikat</name__fi>
+        <name__fi>Työsuhdeasiat</name__fi>
+        <name__fi>Työttömyys</name__fi>
+        <name__fi>Eläkkeet</name__fi>
+        <name__fi>Ammatinvalinnanohjaus</name__fi>
+        <name__fi>Tilojen vuokraus ja varaus</name__fi>
+        <children>
+            <name__fi>Vapaa-ajan tilojen vuokraus</name__fi>
+            <children>
+                <name__fi>Tilaussaunat</name__fi>
+                <name__fi>Nuorisotilat</name__fi>
+                <name__fi>Harrastustilat</name__fi>
+                <name__fi>Kokous- ja juhlatilat</name__fi>
+            </children>
+            <name__fi>Yritystilojen vuokraus</name__fi>
+            <children>
+                <name__fi>Teurastamon tilojen vuokraus</name__fi>
+                <name__fi>Liike-, toimisto-, tuotanto- ja varastotilojen vuokraus</name__fi>
+                <name__fi>Pakastamon tilavuokraus</name__fi>
+                <name__fi>Vihertukkutorin ja Vihertukkuhallin tilojen vuokraus</name__fi>
+            </children>
+            <name__fi>Kauppahalli- ja torimyyntipaikkojen vuokraus</name__fi>
+        </children>
+        <name__fi>Maan, tonttien ja asuntojen vuokraus ja myynti</name__fi>
+        <children>
+            <name__fi>Teollisuus- ja varastotonttien vuokraus</name__fi>
+            <name__fi>Liike- ja toimistotonttien vuokraus ja myynti</name__fi>
+            <name__fi>Maa-alueiden vuokraus ja myynti</name__fi>
+            <name__fi>Asuntotonttien vuokraus ja myynti</name__fi>
+            <name__fi>Asuntojen ja kaupungin työsuhdeasuntojen vuokraus</name__fi>
+        </children>
+        <name__fi>Katujen ja viheralueiden käyttöluvat ja vuokraus</name__fi>
+    </children>
+    <name__fi>Asuminen ja ympäristö</name__fi>
+    <children>
+        <name__fi>Torit ja kauppahallit</name__fi>
+        <children>
+            <name__fi>Markkinat</name__fi>
+            <name__fi>Torit</name__fi>
+            <name__fi>Kauppahallit</name__fi>
+            <name__fi>Kirpputorit</name__fi>
+        </children>
+        <name__fi>Vesihuolto</name__fi>
+        <children>
+            <name__fi>Tukikohta</name__fi>
+            <name__fi>Vedenpuhdistuslaitos</name__fi>
+            <name__fi>Jäteveden puhdistamo</name__fi>
+            <name__fi>Vesilaskut ja asiakaspalvelu</name__fi>
+            <name__fi>Mullan myynti ja toimitus</name__fi>
+        </children>
+        <name__fi>Energia</name__fi>
+        <children>
+            <name__fi>Voimalaitokset</name__fi>
+            <name__fi>Asiakaspalvelu</name__fi>
+            <name__fi>Energianeuvonta</name__fi>
+        </children>
+        <name__fi>Jätehuolto ja kierrätys</name__fi>
+        <children>
+            <name__fi>Kierrätyskeskus</name__fi>
+            <name__fi>Keräyspisteet</name__fi>
+            <children>
+                <name__fi>Puujäte</name__fi>
+                <name__fi>Sekajäte</name__fi>
+                <name__fi>Energiajäte</name__fi>
+                <name__fi>Paperinkeräys</name__fi>
+                <name__fi>Pahvinkeräys</name__fi>
+                <name__fi>Kartonginkeräys</name__fi>
+                <name__fi>Metallinkeräys</name__fi>
+                <name__fi>Lasinkeräys</name__fi>
+                <name__fi>Vaarallinen jäte</name__fi>
+                <name__fi>Sähkö- ja elektroniikkaromu</name__fi>
+                <name__fi>Paristonkeräys</name__fi>
+                <name__fi>Muovinkeräys</name__fi>
+                <name__fi>Tekstiilien keräys</name__fi>
+                <name__fi>Akkujen keräys</name__fi>
+                <name__fi>Lamppujen keräys</name__fi>
+            </children>
+        </children>
+        <name__fi>Tiet ja kadut</name__fi>
+        <children>
+            <name__fi>Katu-, maa- ja viherrakentamispalvelut</name__fi>
+            <name__fi>Katujen puhtaanapito ja talvikunnossapito</name__fi>
+            <name__fi>Katujen ja viheralueiden käyttöluvat ja vuokraus</name__fi>
+            <name__fi>Katujen ja viheralueiden suunnittelu ja rakennuttaminen</name__fi>
+            <name__fi>Tierakenteiden tiiviys- ja kantavuusmittaus</name__fi>
+        </children>
+        <name__fi>Puistot ja viheralueet</name__fi>
+        <children>
+            <name__fi>Koira-alueet</name__fi>
+            <children>
+                <name__fi>Koirauimarannat</name__fi>
+                <name__fi>Koira-aitaukset</name__fi>
+                <name__fi>Opaskoira-aitaukset</name__fi>
+                <name__fi>Koirametsät</name__fi>
+                <name__fi>Koirakäymälät</name__fi>
+            </children>
+            <name__fi>Viheralueet</name__fi>
+            <name__fi>Leikkipuistot</name__fi>
+            <children>
+                <name__fi>Muut leikkipaikat</name__fi>
+                <name__fi>Leikkipuistotoiminta</name__fi>
+            </children>
+            <name__fi>Kahluualtaat</name__fi>
+        </children>
+        <name__fi>Puutarhapalstat</name__fi>
+        <name__fi>Matonpesupaikat</name__fi>
+        <name__fi>Yleisövessat</name__fi>
+        <name__fi>Eläimet</name__fi>
+        <children>
+            <name__fi>Koiravero</name__fi>
+            <name__fi>Luonnonvaraisten eläinten hoitola</name__fi>
+            <name__fi>Koira-alueet</name__fi>
+            <children>
+                <name__fi>Koirauimarannat</name__fi>
+                <name__fi>Koira-aitaukset</name__fi>
+                <name__fi>Opaskoira-aitaukset</name__fi>
+                <name__fi>Koirametsät</name__fi>
+                <name__fi>Koirakäymälät</name__fi>
+            </children>
+        </children>
+        <name__fi>Ympäristön hoito</name__fi>
+        <children>
+            <name__fi>Metsät</name__fi>
+            <name__fi>Puutarhapalvelut</name__fi>
+        </children>
+        <name__fi>Ympäristövalvonta</name__fi>
+        <children>
+            <name__fi>Pohjavesitiedot</name__fi>
+            <name__fi>Sisäympäristö</name__fi>
+            <name__fi>Maaperä ja vesi</name__fi>
+            <name__fi>Ympäristöhaitat ja -luvat</name__fi>
+            <name__fi>Ympäristönsuojelumääräykset</name__fi>
+        </children>
+        <name__fi>Ympäristökasvatus</name__fi>
+        <children>
+            <name__fi>Luontokoulu</name__fi>
+        </children>
+        <name__fi>Ympäristötutkimus ja tilastointi</name__fi>
+        <name__fi>Ympäristöneuvonta</name__fi>
+        <name__fi>Luonnonsuojelu</name__fi>
+        <name__fi>Ympäristöohjelmat</name__fi>
+        <name__fi>Ympäristöterveydenhuolto</name__fi>
+        <children>
+            <name__fi>Uimavesien valvonta</name__fi>
+            <name__fi>Terveystarkastaja</name__fi>
+            <name__fi>Asumisterveys</name__fi>
+            <name__fi>Sisätilojen tuholaiset</name__fi>
+            <name__fi>Elintarvikevalvonta</name__fi>
+            <name__fi>Eläinlääkäripalvelut</name__fi>
+            <name__fi>Eläinsuojelu</name__fi>
+            <name__fi>Kemikaalivalvonta</name__fi>
+            <name__fi>Talousveden valvonta</name__fi>
+            <name__fi>Tuoteturvallisuus</name__fi>
+            <name__fi>Tupakkalain valvonta</name__fi>
+        </children>
+        <name__fi>Hallinto</name__fi>
+        <children>
+            <name__fi>Ympäristölautakunta</name__fi>
+        </children>
+        <name__fi>Ympäristön sähköinen asiointi ja lomakkeet</name__fi>
+        <name__fi>Asuminen</name__fi>
+        <children>
+            <name__fi>Asumisen sähköinen asiointi ja lomakkeet</name__fi>
+            <name__fi>Vuokra-asuminen</name__fi>
+            <children>
+                <name__fi>Kaupungin vuokra-asunnot</name__fi>
+            </children>
+            <name__fi>Asumisoikeusasuminen</name__fi>
+            <children>
+                <name__fi>Kaupungin asumisoikeusasunnot</name__fi>
+            </children>
+            <name__fi>Asumisen tuet</name__fi>
+            <name__fi>Asuntotuotanto</name__fi>
+        </children>
+        <name__fi>Joulukuusien myyntipaikat</name__fi>
+        <name__fi>Löytötavarapalvelu</name__fi>
+    </children>
+    <name__fi>Kartat, tietopalvelut ja viestintä</name__fi>
+    <children>
+        <name__fi>Asiakaspalvelu ja neuvonta</name__fi>
+        <children>
+            <name__fi>Matkailuneuvonta</name__fi>
+            <name__fi>Info- ja näyttelytilat</name__fi>
+            <name__fi>Sosiaali- ja terveyspalvelujen neuvonta</name__fi>
+            <name__fi>Opetuksen ja koulutuksen neuvonta</name__fi>
+            <name__fi>Yhteispalvelupisteet ja yleisneuvonta</name__fi>
+        </children>
+        <name__fi>Kirjastot</name__fi>
+        <children>
+            <name__fi>Kirjastoautot ja pysäkit</name__fi>
+            <name__fi>Yleiset kirjastot</name__fi>
+            <name__fi>Erikoiskirjastot</name__fi>
+            <name__fi>Laitoskirjastot</name__fi>
+        </children>
+        <name__fi>Tilastot ja tietopalvelut</name__fi>
+        <name__fi>Arkistot</name__fi>
+        <children>
+            <name__fi>Asemakaava-arkisto</name__fi>
+            <name__fi>Kaupunginarkiston asiakaspalvelu</name__fi>
+            <name__fi>Rakennusvalvonnan arkisto</name__fi>
+            <name__fi>Rakennusviraston arkisto</name__fi>
+            <name__fi>Kiinteistörekisteri</name__fi>
+        </children>
+        <name__fi>Kartat ja paikkatietopalvelut</name__fi>
+        <children>
+            <name__fi>Johtotietopalvelu ja maanalaisten tilojen tietopalvelu</name__fi>
+            <name__fi>Paikkatietoneuvonta ja -aineistot</name__fi>
+            <name__fi>Karttapalvelut, ilmakuvat ja karttojen tilaus</name__fi>
+        </children>
+        <name__fi>Nettipisteet ja tietotekniikkapalvelut</name__fi>
+        <children>
+            <name__fi>Langaton internet, wlan</name__fi>
+            <children>
+                <name__fi>WLAN-sisäpisteet</name__fi>
+                <name__fi>WLAN-ulkopisteet</name__fi>
+            </children>
+            <name__fi>Tietokone ja internet</name__fi>
+            <children>
+                <name__fi>Tarjolla oheislaitteita</name__fi>
+                <children>
+                    <name__fi>Tulostin</name__fi>
+                    <name__fi>Skanneri</name__fi>
+                    <name__fi>Multimedialaitteita</name__fi>
+                    <name__fi>Puhesyntetisaattori</name__fi>
+                </children>
+                <name__fi>Tarjolla opastusta</name__fi>
+                <children>
+                    <name__fi>Kurssimuotoista tietokoneopetusta</name__fi>
+                    <name__fi>Opastusta tietokoneen käytössä</name__fi>
+                </children>
+            </children>
+        </children>
+    </children>
+    <name__fi>Turvallisuus</name__fi>
+    <children>
+        <name__fi>Muut turvallisuuspalvelut</name__fi>
+        <children>
+            <name__fi>Turvallisuuskoulutus</name__fi>
+            <name__fi>Turvapalvelut</name__fi>
+            <name__fi>Turvapuhelinpalvelut</name__fi>
+        </children>
+        <name__fi>Pelastustoimi</name__fi>
+        <children>
+            <name__fi>Nuohous</name__fi>
+            <name__fi>Pelastusasemat</name__fi>
+            <name__fi>Öljyntorjuntavarikko</name__fi>
+            <name__fi>Sopimuspalokunnat</name__fi>
+        </children>
+        <name__fi>Väestönsuojat</name__fi>
+        <children>
+            <name__fi>Yhteiskalliosuojat</name__fi>
+            <name__fi>Yleiset väestönsuojat</name__fi>
+            <name__fi>Yleiset ja yhteiset kalliosuojat</name__fi>
+        </children>
+        <name__fi>Väestöhälyttimet</name__fi>
+        <name__fi>Poliisi </name__fi>
+        <children>
+            <name__fi>Poliisilaitokset ja -asemat</name__fi>
+        </children>
+        <name__fi>Tulli </name__fi>
+        <children>
+            <name__fi>Tullin asiointipisteet</name__fi>
+        </children>
+        <name__fi>Rajavartiolaitos</name__fi>
+        <name__fi>Maanpuolustus</name__fi>
+        <children>
+            <name__fi>Maanpuolustusyhdistykset</name__fi>
+            <name__fi>Puolustusvoimat</name__fi>
+        </children>
+        <name__fi>Meripelastus</name__fi>
+        <name__fi>Säteilyturva</name__fi>
+    </children>
+    <name__fi>Kaavoitus, kiinteistöt ja rakentaminen</name__fi>
+    <children>
+        <name__fi>Viestintä</name__fi>
+        <name__fi>Kaavoitus</name__fi>
+        <children>
+            <name__fi>Viestintä ja vuorovaikutus</name__fi>
+            <name__fi>Kaavat ja kaavoitus</name__fi>
+            <name__fi>Nimistönsuunnittelu</name__fi>
+            <name__fi>Liikennesuunnittelu</name__fi>
+            <children>
+                <name__fi>Liikenteen ohjaus, liikennevalot</name__fi>
+                <name__fi>Liikennesuunnittelu</name__fi>
+            </children>
+            <name__fi>Asiakaspalvelu</name__fi>
+            <name__fi>Info- ja näyttelytilat</name__fi>
+        </children>
+        <name__fi>Kiinteistöt ja rakennetut tilat</name__fi>
+        <children>
+            <name__fi>Hissiprojekti</name__fi>
+            <name__fi>Kaupanvahvistus</name__fi>
+            <name__fi>Lainhuuto</name__fi>
+            <name__fi>Kiinteistönmuodostus</name__fi>
+            <name__fi>Kiinteistörekisteri</name__fi>
+            <name__fi>Kiinteistöhuolto ja isännöinti</name__fi>
+            <name__fi>Siivouspalvelut</name__fi>
+            <name__fi>Nuohous</name__fi>
+            <name__fi>Korjausavustukset ja -lainat</name__fi>
+            <name__fi>Energia-avustukset</name__fi>
+            <name__fi>Tilojen vuokraus ja varaus</name__fi>
+            <children>
+                <name__fi>Vapaa-ajan tilojen vuokraus</name__fi>
+                <children>
+                    <name__fi>Tilaussaunat</name__fi>
+                    <name__fi>Nuorisotilat</name__fi>
+                    <name__fi>Harrastustilat</name__fi>
+                    <name__fi>Kokous- ja juhlatilat</name__fi>
+                </children>
+                <name__fi>Kauppahalli- ja torimyyntipaikkojen vuokraus</name__fi>
+                <name__fi>Yritystilojen vuokraus</name__fi>
+                <children>
+                    <name__fi>Teurastamon tilojen vuokraus</name__fi>
+                    <name__fi>Liike-, toimisto-, tuotanto- ja varastotilojen vuokraus</name__fi>
+                    <name__fi>Pakastamon tilavuokraus</name__fi>
+                    <name__fi>Vihertukkutorin ja Vihertukkuhallin tilojen vuokraus</name__fi>
+                </children>
+            </children>
+            <name__fi>Maan, tonttien ja asuntojen vuokraus ja myynti</name__fi>
+            <children>
+                <name__fi>Teollisuus- ja varastotonttien vuokraus</name__fi>
+                <name__fi>Liike- ja toimistotonttien vuokraus ja myynti</name__fi>
+                <name__fi>Maa-alueiden vuokraus ja myynti</name__fi>
+                <name__fi>Asuntotonttien vuokraus ja myynti</name__fi>
+                <name__fi>Asuntojen ja kaupungin työsuhdeasuntojen vuokraus</name__fi>
+            </children>
+            <name__fi>Hallinto</name__fi>
+            <children>
+                <name__fi>Maastomittauspalvelut</name__fi>
+                <name__fi>Hankepalvelut</name__fi>
+                <name__fi>Hallintopalvelut</name__fi>
+            </children>
+        </children>
+        <name__fi>Rakentaminen</name__fi>
+        <children>
+            <name__fi>Rakentamisen sähköinen asiointi ja lomakkeet</name__fi>
+            <name__fi>Vesihuolto</name__fi>
+            <children>
+                <name__fi>Tukikohta</name__fi>
+                <name__fi>Vedenpuhdistuslaitos</name__fi>
+                <name__fi>Jäteveden puhdistamo</name__fi>
+                <name__fi>Vesilaskut ja asiakaspalvelu</name__fi>
+                <name__fi>Mullan myynti ja toimitus</name__fi>
+            </children>
+            <name__fi>Energia</name__fi>
+            <children>
+                <name__fi>Voimalaitokset</name__fi>
+                <name__fi>Asiakaspalvelu</name__fi>
+                <name__fi>Energianeuvonta</name__fi>
+            </children>
+            <name__fi>Asuntotuotanto</name__fi>
+            <name__fi>Rakennusvalvonta</name__fi>
+            <children>
+                <name__fi>Rakennusvalvontamittaukset</name__fi>
+                <name__fi>Rakennustöiden viranomaisvalvonta</name__fi>
+                <name__fi>Rakennus- ja toimenpideluvat</name__fi>
+                <name__fi>Arkistot</name__fi>
+            </children>
+            <name__fi>Suunnittelu- ja rakentamispalvelut</name__fi>
+            <children>
+                <name__fi>Pohja- ja kalliorakennussuunnittelu</name__fi>
+                <name__fi>Kaupungin toimitilojen suunnittelu</name__fi>
+                <name__fi>Kaupungin toimitilojen rakennuttaminen</name__fi>
+                <name__fi>Kilpipalvelut</name__fi>
+                <name__fi>Materiaalipalvelut</name__fi>
+            </children>
+            <name__fi>Yhdyskuntarakentaminen</name__fi>
+            <children>
+                <name__fi>Aluerakentaminen</name__fi>
+                <children>
+                    <name__fi>Tiedotus</name__fi>
+                </children>
+            </children>
+            <name__fi>Katujen ja viheralueiden suunnittelu ja rakennuttaminen</name__fi>
+            <name__fi>Hallinto</name__fi>
+        </children>
+    </children>
+    <name__fi>Matkailu ja tapahtumat</name__fi>
+    <children>
+        <name__fi>Tapahtumat</name__fi>
+        <children>
+            <name__fi>Lipunmyynti</name__fi>
+            <name__fi>galleria</name__fi>
+            <name__fi>Ilmaistapahtumat</name__fi>
+            <name__fi>jääkiekko</name__fi>
+            <name__fi>kirkkomusiikki</name__fi>
+            <name__fi>konsertti</name__fi>
+            <name__fi>kulttuuri</name__fi>
+            <name__fi>luento</name__fi>
+            <name__fi>markkinat</name__fi>
+            <name__fi>museo</name__fi>
+            <name__fi>musiikki</name__fi>
+            <name__fi>musikaali</name__fi>
+            <name__fi>Muu</name__fi>
+            <name__fi>Näyttely</name__fi>
+            <name__fi>ooppera</name__fi>
+            <name__fi>opastus</name__fi>
+            <name__fi>perinnetapahtuma</name__fi>
+            <name__fi>talvi</name__fi>
+            <name__fi>tanssi</name__fi>
+            <name__fi>tapahtuma</name__fi>
+            <name__fi>teatteri</name__fi>
+            <name__fi>top</name__fi>
+            <name__fi>urheilu</name__fi>
+        </children>
+        <name__fi>Matkailu</name__fi>
+        <children>
+            <name__fi>Teatterit</name__fi>
+            <name__fi>Eläintarhat</name__fi>
+            <children>
+                <name__fi>Luonnonvaraisten eläinten hoitola</name__fi>
+                <name__fi>Eläintarha</name__fi>
+                <name__fi>Lipunmyynti</name__fi>
+                <name__fi>Ennakkomyynti</name__fi>
+                <name__fi>Vesibussilaiturit</name__fi>
+                <name__fi>Ruokaa, juomaa ja ostoksia</name__fi>
+                <children>
+                    <name__fi>Kauppa</name__fi>
+                    <name__fi>Ravintola</name__fi>
+                    <name__fi>Kahvila</name__fi>
+                    <name__fi>Kioski</name__fi>
+                </children>
+            </children>
+            <name__fi>Leirintäalueet</name__fi>
+            <name__fi>Nähtävyydet</name__fi>
+            <name__fi>Matkailuneuvonta</name__fi>
+            <name__fi>Hotelli</name__fi>
+            <name__fi>Juhlatila</name__fi>
+            <name__fi>Kokouspaikka</name__fi>
+            <name__fi>Museot</name__fi>
+            <name__fi>Muu</name__fi>
+            <name__fi>Ostospaikka</name__fi>
+            <name__fi>Ravintola</name__fi>
+        </children>
+    </children>
+    <name__fi>Päivähoito ja esiopetus</name__fi>
+    <children>
+        <name__fi>Esiopetus</name__fi>
+        <children>
+            <name__fi>Ruotsinkielinen esiopetus 2014-2015</name__fi>
+            <children>
+                <name__fi>Koulun järjestämä esiopetus</name__fi>
+                <name__fi>Päivähoidon järjestämä esiopetus</name__fi>
+                <children>
+                    <name__fi>esiopetus yksityisessä päiväkodissa</name__fi>
+                    <name__fi>esiopetus kunnallisessa päiväkodissa</name__fi>
+                    <name__fi>esiopetus ostosopimuspäiväkodissa</name__fi>
+                </children>
+            </children>
+            <name__fi>Suomen- ja vieraskielinen esiopetus 2014-2015</name__fi>
+            <children>
+                <name__fi>Esi- ja starttiopetus</name__fi>
+                <name__fi>Päivähoidon järjestämä esiopetus</name__fi>
+                <children>
+                    <name__fi>esiopetus yksityisessä päiväkodissa</name__fi>
+                    <name__fi>esiopetus kunnallisessa päiväkodissa</name__fi>
+                    <name__fi>esiopetus ostosopimuspäiväkodissa</name__fi>
+                </children>
+                <name__fi>Koulun järjestämä esiopetus</name__fi>
+            </children>
+        </children>
+        <name__fi>Lasten päivähoito</name__fi>
+        <children>
+            <name__fi>Päivähoidon sähköinen asiointi ja lomakkeet</name__fi>
+            <name__fi>Kunnalliset päiväkodit</name__fi>
+            <children>
+                <name__fi>Saamenkielinen päivähoito</name__fi>
+                <children>
+                    <name__fi>erityisryhmä</name__fi>
+                    <name__fi>päivähoito</name__fi>
+                </children>
+                <name__fi>Suomenkielinen päivähoito</name__fi>
+                <children>
+                    <name__fi>esiopetus 2014-2015</name__fi>
+                    <name__fi>päivähoito</name__fi>
+                    <name__fi>vuorohoito</name__fi>
+                    <name__fi>iltahoito 17:30-22:00</name__fi>
+                    <name__fi>ympärivuorokautinen hoito</name__fi>
+                    <name__fi>erityisryhmä</name__fi>
+                    <name__fi>kielikylpy ruotsi</name__fi>
+                    <name__fi>kielikylpy englanti</name__fi>
+                </children>
+                <name__fi>Ruotsinkielinen päivähoito</name__fi>
+                <children>
+                    <name__fi>esiopetus 2014-2015</name__fi>
+                    <name__fi>päivähoito</name__fi>
+                    <name__fi>vuorohoito</name__fi>
+                    <name__fi>iltahoito 17:30-22:00</name__fi>
+                    <name__fi>erityisryhmä</name__fi>
+                </children>
+                <name__fi>Englanninkielinen päivähoito</name__fi>
+                <children>
+                    <name__fi>päivähoito</name__fi>
+                </children>
+            </children>
+            <name__fi>Ostosopimuspäiväkodit</name__fi>
+            <children>
+                <name__fi>esiopetus 2014-2015</name__fi>
+                <name__fi>suomenkielinen päivähoito</name__fi>
+                <name__fi>ruotsinkielinen päivähoito</name__fi>
+                <name__fi>venäjänkielinen päivähoito</name__fi>
+                <name__fi>ympärivuorokautinen hoito</name__fi>
+                <name__fi>kielikylpy ruotsi</name__fi>
+            </children>
+            <name__fi>Yksityiset päiväkodit</name__fi>
+            <children>
+                <name__fi>esiopetus 2014-2015</name__fi>
+                <name__fi>suomenkielinen päivähoito</name__fi>
+                <name__fi>ruotsinkielinen päivähoito</name__fi>
+                <name__fi>englanninkielinen päivähoito</name__fi>
+                <name__fi>saksankielinen päivähoito</name__fi>
+                <name__fi>ranskankielinen päivähoito</name__fi>
+                <name__fi>espanjankielinen päivähoito</name__fi>
+                <name__fi>venäjänkielinen päivähoito</name__fi>
+                <name__fi>arabiankielinen päivähoito</name__fi>
+                <name__fi>kielikylpy ruotsi</name__fi>
+                <name__fi>kielikylpy englanti</name__fi>
+                <name__fi>hepreankielinen päivähoito</name__fi>
+                <name__fi>vironkielinen päivähoito</name__fi>
+            </children>
+            <name__fi>Perhepäivähoito</name__fi>
+            <children>
+                <name__fi>yksityinen ryhmäperhepäivähoito</name__fi>
+                <name__fi>perhepäivähoidon ohjausalue</name__fi>
+                <name__fi>suomenkielinen ryhmäperhepäivähoito</name__fi>
+                <name__fi>ruotsinkielinen ryhmäperhepäivähoito</name__fi>
+                <name__fi>kolmiperhepäivähoito</name__fi>
+            </children>
+            <name__fi>Leikkitoiminta</name__fi>
+            <children>
+                <name__fi>puistotäti, yksityinen</name__fi>
+                <name__fi>avoin toiminta</name__fi>
+                <name__fi>kehitysvammaisten iltapäivätoiminta</name__fi>
+                <name__fi>kerhotoiminta</name__fi>
+                <name__fi>koululaisten iltapäivätoiminta</name__fi>
+                <name__fi>leikkikoulu</name__fi>
+                <name__fi>leikkipuistotoiminta</name__fi>
+            </children>
+            <name__fi>Yksityisen hoidon tuki</name__fi>
+        </children>
+    </children>
+    <name__fi>Hallinto ja talous</name__fi>
+    <children>
+        <name__fi>Tuet ja avustukset</name__fi>
+        <children>
+            <name__fi>Avustusten sähköinen asiointi ja lomakkeet</name__fi>
+        </children>
+        <name__fi>Kirjaamo</name__fi>
+        <name__fi>Kuulutukset</name__fi>
+        <name__fi>Hallinto</name__fi>
+        <children>
+            <name__fi>Turvallisuus- ja valmiussuunnittelu</name__fi>
+            <name__fi>Hallintopalvelut</name__fi>
+            <name__fi>Viestintä</name__fi>
+            <name__fi>Hallinnon toimipisteet</name__fi>
+            <children>
+                <name__fi>Kunnan- ja kaupunginvirastot</name__fi>
+                <name__fi>Kaupungintalot</name__fi>
+                <name__fi>Valtuustotalot</name__fi>
+            </children>
+            <name__fi>Oikeuspalvelut, vaaliasiat</name__fi>
+            <name__fi>Postipalvelut</name__fi>
+        </children>
+        <name__fi>Päätöksenteko</name__fi>
+        <children>
+            <name__fi>Lautakunnat ja johtokunnat</name__fi>
+            <name__fi>Kaupunginhallituksen ja kaupunginvaltuuston valmistelutehtävät</name__fi>
+            <name__fi>Kaupunginhallitus</name__fi>
+            <name__fi>Kaupunginvaltuusto</name__fi>
+            <name__fi>Valtuustoryhmät, kansalaislähetystöt</name__fi>
+        </children>
+        <name__fi>Tarkastus</name__fi>
+        <children>
+            <name__fi>Sisäinen tarkastus</name__fi>
+            <name__fi>Tarkastusvirasto</name__fi>
+        </children>
+        <name__fi>Talous</name__fi>
+        <children>
+            <name__fi>Taloushallinto</name__fi>
+            <children>
+                <name__fi>palkanlaskenta </name__fi>
+                <name__fi>kirjanpito</name__fi>
+                <name__fi>maksukattoasiat</name__fi>
+                <name__fi>laskutus</name__fi>
+                <name__fi>laskutuksen asiakasmaksut</name__fi>
+                <name__fi>suoritukset</name__fi>
+                <name__fi>täsmäykset</name__fi>
+                <name__fi>maksuliikenne</name__fi>
+                <name__fi>yleisökassa</name__fi>
+                <name__fi>ostolaskut</name__fi>
+            </children>
+            <name__fi>Talousarvio</name__fi>
+            <name__fi>Varainhallinta</name__fi>
+            <children>
+                <name__fi>Henkilöstökassa</name__fi>
+            </children>
+        </children>
+        <name__fi>Hankintapalvelut</name__fi>
+        <name__fi>Keskitetyt tietotekniikkapalvelut</name__fi>
+        <name__fi>Kunnan henkilöstö</name__fi>
+        <children>
+            <name__fi>Henkilöstöravintolat</name__fi>
+            <name__fi>Kunnan henkilöstökoulutus</name__fi>
+            <children>
+                <name__fi>Oiva Akatemia</name__fi>
+            </children>
+            <name__fi>Rekrytointi</name__fi>
+            <name__fi>Henkilöstöpolitiikka ja -strategia</name__fi>
+        </children>
+        <name__fi>Maahanmuutto</name__fi>
+        <children>
+            <name__fi>Kelan etuudet</name__fi>
+            <name__fi>Maahanmuuttajapalvelut</name__fi>
+        </children>
+    </children>
+    <name__fi>Opetus ja koulutus</name__fi>
+    <children>
+        <name__fi>Asiakaspalvelu ja neuvonta</name__fi>
+        <children>
+            <name__fi>Hallinto- ja kehittämiskeskuksen palvelut</name__fi>
+            <children>
+                <name__fi>tutkimuslupa-asiat</name__fi>
+                <name__fi>tietohallintoasiat</name__fi>
+                <name__fi>turvallisuus</name__fi>
+                <name__fi>hankinta-asiat</name__fi>
+                <name__fi>kouluruokailu</name__fi>
+                <name__fi>tilojen ilta- ja vapaa-ajankäyttö</name__fi>
+                <name__fi>henkilöstö- ja lakiasiat</name__fi>
+                <name__fi>talousasiat</name__fi>
+                <name__fi>oppilasrekisteriasiat</name__fi>
+                <name__fi>oppilastietojärjestelmäpalvelut</name__fi>
+                <name__fi>tilastot</name__fi>
+                <name__fi>neuvontapalvelut</name__fi>
+                <name__fi>oppilaaksiottoalueet</name__fi>
+            </children>
+            <name__fi>Perusopetuslinjan palvelut</name__fi>
+            <children>
+                <name__fi>iltapäivätoiminta</name__fi>
+                <name__fi>yleinen perusopetus</name__fi>
+                <name__fi>esiopetus</name__fi>
+                <name__fi>erityisopetus</name__fi>
+                <name__fi>monikulttuurinen opetus</name__fi>
+                <name__fi>erityiskuljetukset ja vapaa-ajan tapaturmat</name__fi>
+                <name__fi>koulumatkat</name__fi>
+            </children>
+            <name__fi>Nuoriso- ja aikuiskoulutuslinjan palvelut</name__fi>
+            <children>
+                <name__fi>yhteishaku</name__fi>
+                <name__fi>nuorten lukiokoulutus</name__fi>
+                <name__fi>nuorten ammatillinen koulutus</name__fi>
+                <name__fi>aikuiskoulutus</name__fi>
+                <name__fi>oppisopimuskoulutus</name__fi>
+                <name__fi>työpajatoiminta</name__fi>
+            </children>
+            <name__fi>Svenska linjen palvelut</name__fi>
+            <children>
+                <name__fi>iltapäivätoiminta</name__fi>
+                <name__fi>yleinen perusopetus</name__fi>
+                <name__fi>päivähoito</name__fi>
+                <name__fi>esiopetus</name__fi>
+                <name__fi>erityisopetus</name__fi>
+                <name__fi>monikulttuurinen opetus</name__fi>
+                <name__fi>erityiskuljetukset ja vapaa-ajan tapaturmat</name__fi>
+                <name__fi>koulumatkat</name__fi>
+                <name__fi>lukiokoulutus</name__fi>
+                <name__fi>aikuislukiokoulutus</name__fi>
+                <name__fi>arkisto</name__fi>
+            </children>
+        </children>
+        <name__fi>Esiopetus</name__fi>
+        <children>
+            <name__fi>Ruotsinkielinen esiopetus 2014-2015</name__fi>
+            <children>
+                <name__fi>Koulun järjestämä esiopetus</name__fi>
+                <name__fi>Päivähoidon järjestämä esiopetus</name__fi>
+                <children>
+                    <name__fi>esiopetus yksityisessä päiväkodissa</name__fi>
+                    <name__fi>esiopetus kunnallisessa päiväkodissa</name__fi>
+                    <name__fi>esiopetus ostosopimuspäiväkodissa</name__fi>
+                </children>
+            </children>
+            <name__fi>Suomen- ja vieraskielinen esiopetus 2014-2015</name__fi>
+            <children>
+                <name__fi>Esi- ja starttiopetus</name__fi>
+                <name__fi>Päivähoidon järjestämä esiopetus</name__fi>
+                <children>
+                    <name__fi>esiopetus yksityisessä päiväkodissa</name__fi>
+                    <name__fi>esiopetus kunnallisessa päiväkodissa</name__fi>
+                    <name__fi>esiopetus ostosopimuspäiväkodissa</name__fi>
+                </children>
+                <name__fi>Koulun järjestämä esiopetus</name__fi>
+            </children>
+        </children>
+        <name__fi>Perusopetus</name__fi>
+        <children>
+            <name__fi>Ruotsinkielinen perusopetus 2014-2015</name__fi>
+            <children>
+                <name__fi>Iltapäivätoiminta</name__fi>
+                <children>
+                    <name__fi>Seurakuntien ryhmät</name__fi>
+                    <name__fi>Opetusviraston ryhmät</name__fi>
+                    <name__fi>Järjestöjen ja yhdistysten ryhmät</name__fi>
+                </children>
+                <name__fi>Esikouluopetus</name__fi>
+                <name__fi>Luokkien 1-6 perusopetus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B2-ranska</name__fi>
+                        <name__fi>A1-suomi</name__fi>
+                        <name__fi>A2-englanti</name__fi>
+                        <name__fi>A2-saksa</name__fi>
+                        <name__fi>A2-ranska</name__fi>
+                        <name__fi>B2-englanti</name__fi>
+                        <name__fi>B2-saksa</name__fi>
+                    </children>
+                    <name__fi>ruotsinkielinen opetus</name__fi>
+                    <name__fi>Soveltuvuuskoepainotus</name__fi>
+                    <children>
+                        <name__fi>soveltuvuuskoepainotus musiikki</name__fi>
+                    </children>
+                </children>
+                <name__fi>Luokkien 7-9 perusopetus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B2-venäjä</name__fi>
+                        <name__fi>A1-suomi</name__fi>
+                        <name__fi>A2-englanti</name__fi>
+                        <name__fi>A2-saksa</name__fi>
+                        <name__fi>A2-ranska</name__fi>
+                        <name__fi>B1-latina</name__fi>
+                        <name__fi>B2-englanti</name__fi>
+                        <name__fi>B2-saksa</name__fi>
+                        <name__fi>B2-ranska</name__fi>
+                    </children>
+                    <name__fi>ruotsinkielinen opetus</name__fi>
+                    <name__fi>Soveltuvuuskoepainotus</name__fi>
+                    <children>
+                        <name__fi>soveltuvuuskoepainotus musiikki</name__fi>
+                    </children>
+                </children>
+                <name__fi>Sairaalaopetus</name__fi>
+                <name__fi>Erityisluokkaopetus</name__fi>
+                <name__fi>Lisäopetus (10. luokka)</name__fi>
+            </children>
+            <name__fi>Suomen- ja vieraskielinen perusopetus 2014-2015</name__fi>
+            <children>
+                <name__fi>Iltapäivätoiminta</name__fi>
+                <children>
+                    <name__fi>Autististen ja kehitysvammaisten ryhmät</name__fi>
+                    <name__fi>Opetusviraston ryhmät</name__fi>
+                    <name__fi>Järjestöjen ja yhdistysten ryhmät</name__fi>
+                    <name__fi>Seurakuntien ryhmät</name__fi>
+                </children>
+                <name__fi>Esikouluopetus</name__fi>
+                <name__fi>Esi- ja starttiopetus</name__fi>
+                <name__fi>Luokkien 1-6 perusopetus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B2-latina</name__fi>
+                        <name__fi>A1-ruotsi</name__fi>
+                        <name__fi>A1-englanti</name__fi>
+                        <name__fi>A1-saksa</name__fi>
+                        <name__fi>A1-ranska</name__fi>
+                        <name__fi>A1-venäjä</name__fi>
+                        <name__fi>A1-espanja</name__fi>
+                        <name__fi>A1-heprea</name__fi>
+                        <name__fi>A2-ruotsi</name__fi>
+                        <name__fi>A2-englanti</name__fi>
+                        <name__fi>A2-saksa</name__fi>
+                        <name__fi>A2-ranska</name__fi>
+                        <name__fi>A2-venäjä</name__fi>
+                        <name__fi>A2-espanja</name__fi>
+                        <name__fi>B1-ruotsi</name__fi>
+                        <name__fi>B1-englanti</name__fi>
+                        <name__fi>B1-ranska</name__fi>
+                        <name__fi>B2-suomi</name__fi>
+                        <name__fi>B2-englanti</name__fi>
+                        <name__fi>B2-saksa</name__fi>
+                        <name__fi>B2-ranska</name__fi>
+                        <name__fi>B2-venäjä</name__fi>
+                        <name__fi>B2-espanja</name__fi>
+                        <name__fi>B2-italia</name__fi>
+                        <name__fi>B2-viro</name__fi>
+                    </children>
+                    <name__fi>suomenkielinen opetus</name__fi>
+                    <name__fi>englanninkielinen opetus</name__fi>
+                    <name__fi>ranskankielinen opetus</name__fi>
+                    <name__fi>saksankielinen opetus</name__fi>
+                    <name__fi>venäjänkielinen opetus</name__fi>
+                    <name__fi>Soveltuvuuskoepainotus</name__fi>
+                    <children>
+                        <name__fi>3. luokalta alkava Kuvataide</name__fi>
+                        <name__fi>1. luokalta alkava Englanti</name__fi>
+                        <name__fi>1. luokalta alkava Suomi-Englanti</name__fi>
+                        <name__fi>1. luokalta alkava Saksa</name__fi>
+                        <name__fi>1. luokalta alkava Venäjä</name__fi>
+                        <name__fi>1. luokalta alkava Suomi-Kiina</name__fi>
+                        <name__fi>1. luokalta alkava Suomi-Espanja</name__fi>
+                        <name__fi>1. luokalta alkava Suomi-Ranska</name__fi>
+                        <name__fi>1. luokalta alkava Suomi-Venäjä</name__fi>
+                        <name__fi>1. luokalta alkava Suomi-Viro</name__fi>
+                        <name__fi>1. luokalta alkava Kiina A-kielenä</name__fi>
+                        <name__fi>1. luokalta alkava Espanja A-kielenä</name__fi>
+                        <name__fi>1. luokalta alkava Musiikki</name__fi>
+                        <name__fi>3. luokalta alkava Ranska</name__fi>
+                        <name__fi>3. luokalta alkava Saksa</name__fi>
+                        <name__fi>3. luokalta alkava Venäjä</name__fi>
+                        <name__fi>3. luokalta alkava Liikunta</name__fi>
+                        <name__fi>3. luokalta alkava Tanssi</name__fi>
+                        <name__fi>3. luokalta alkava Musiikki</name__fi>
+                        <name__fi>3. luokalta alkava Luonto ja tiede</name__fi>
+                        <name__fi>3. luokalta alkava Tieto- ja viestintäteknologia</name__fi>
+                    </children>
+                </children>
+                <name__fi>Luokkien 7-9 perusopetus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B2-latina</name__fi>
+                        <name__fi>A1-ruotsi</name__fi>
+                        <name__fi>A1-englanti</name__fi>
+                        <name__fi>A1-saksa</name__fi>
+                        <name__fi>A1-ranska</name__fi>
+                        <name__fi>A1-venäjä</name__fi>
+                        <name__fi>A1-kiina</name__fi>
+                        <name__fi>A1-espanja</name__fi>
+                        <name__fi>A1-heprea</name__fi>
+                        <name__fi>A2-ruotsi</name__fi>
+                        <name__fi>A2-englanti</name__fi>
+                        <name__fi>A2-saksa</name__fi>
+                        <name__fi>A2-ranska</name__fi>
+                        <name__fi>A2-venäjä</name__fi>
+                        <name__fi>A2-kiina</name__fi>
+                        <name__fi>A2-espanja</name__fi>
+                        <name__fi>B1-ruotsi</name__fi>
+                        <name__fi>B1-englanti</name__fi>
+                        <name__fi>B1-ranska</name__fi>
+                        <name__fi>B2-suomi</name__fi>
+                        <name__fi>B2-englanti</name__fi>
+                        <name__fi>B2-saksa</name__fi>
+                        <name__fi>B2-ranska</name__fi>
+                        <name__fi>B2-venäjä</name__fi>
+                        <name__fi>B2-kiina</name__fi>
+                        <name__fi>B2-espanja</name__fi>
+                        <name__fi>B2-italia</name__fi>
+                        <name__fi>B2-viro</name__fi>
+                    </children>
+                    <name__fi>suomenkielinen opetus</name__fi>
+                    <name__fi>englanninkielinen opetus</name__fi>
+                    <name__fi>ranskankielinen opetus</name__fi>
+                    <name__fi>saksankielinen opetus</name__fi>
+                    <name__fi>venäjänkielinen opetus</name__fi>
+                    <name__fi>Soveltuvuuskoepainotus</name__fi>
+                    <children>
+                        <name__fi>7. luokalta alkava Äidinkieli ja kirjallisuus/ viestintä</name__fi>
+                        <name__fi>7. luokalta alkava Englanti</name__fi>
+                        <name__fi>7. luokalta alkava Suomi-Englanti</name__fi>
+                        <name__fi>7. luokalta alkava Latina</name__fi>
+                        <name__fi>7. luokalta alkava Saksa</name__fi>
+                        <name__fi>7. luokalta alkava Ranska</name__fi>
+                        <name__fi>7. luokalta alkava Venäjä</name__fi>
+                        <name__fi>7. luokalta alkava Suomi-Kiina</name__fi>
+                        <name__fi>7. luokalta alkava Suomi-Viro</name__fi>
+                        <name__fi>7. luokalta alkava Matematiikka</name__fi>
+                        <name__fi>7. luokalta alkava Matematiikka-Luonnontiede</name__fi>
+                        <name__fi>7. luokalta alkava Musiikki</name__fi>
+                        <name__fi>7. luokalta alkava Tanssi</name__fi>
+                        <name__fi>7. luokalta alkava Kuvataide</name__fi>
+                        <name__fi>7. luokalta alkava Ilmaisu- ja kuvataide</name__fi>
+                        <name__fi>7. luokalta alkava Liikunta</name__fi>
+                        <name__fi>7. luokalta alkava Liikunta-Matematiikka</name__fi>
+                        <name__fi>7. luokalta alkava Luonto ja tiede</name__fi>
+                        <name__fi>7. luokalta alkava Biologia-maantiede</name__fi>
+                        <name__fi>7. luokalta alkava Teknologia</name__fi>
+                        <name__fi>7. luokalta alkava Tieto- ja viestintäteknologia</name__fi>
+                        <name__fi>7. luokalta alkava Mediakasvatus</name__fi>
+                    </children>
+                </children>
+                <name__fi>Sairaalaopetus</name__fi>
+                <name__fi>Erityisluokkaopetus</name__fi>
+                <name__fi>Valmistava opetus (maahanmuuttajat)</name__fi>
+                <name__fi>Ruotsin kielikylpyopetus</name__fi>
+                <name__fi>Saksan kielikylpyopetus</name__fi>
+                <name__fi>Kansainvälinen opetus (IB)</name__fi>
+                <name__fi>Eurooppalainen opetus (EB)</name__fi>
+                <name__fi>Lisäopetus (10. luokka)</name__fi>
+                <name__fi>Erityispedagogiikan mukainen perusopetus</name__fi>
+                <children>
+                    <name__fi>steinerpedagogiikan mukainen perusopetus</name__fi>
+                </children>
+            </children>
+        </children>
+        <name__fi>Aamu- ja iltapäivätoiminta</name__fi>
+        <children>
+            <name__fi>Ruotsinkielinen iltapäivätoiminta 2014-2015</name__fi>
+            <children>
+                <name__fi>Seurakuntien ryhmät</name__fi>
+                <name__fi>Opetusviraston ryhmät</name__fi>
+                <name__fi>Järjestöjen ja yhdistysten ryhmät</name__fi>
+            </children>
+            <name__fi>Suomen- ja vieraskielinen iltapäivätoiminta 2014-2015</name__fi>
+            <children>
+                <name__fi>Autististen ja kehitysvammaisten ryhmät</name__fi>
+                <name__fi>Opetusviraston ryhmät</name__fi>
+                <name__fi>Järjestöjen ja yhdistysten ryhmät</name__fi>
+                <name__fi>Seurakuntien ryhmät</name__fi>
+            </children>
+        </children>
+        <name__fi>Lukiokoulutus</name__fi>
+        <children>
+            <name__fi>Ruotsinkielinen nuorten lukiokoulutus 2014-2015</name__fi>
+            <children>
+                <name__fi>Erityistehtävän mukainen lukiokoulutus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B-ranska</name__fi>
+                        <name__fi>A-suomi</name__fi>
+                        <name__fi>A-englanti</name__fi>
+                        <name__fi>A-saksa</name__fi>
+                        <name__fi>B-englanti</name__fi>
+                        <name__fi>B-saksa</name__fi>
+                    </children>
+                    <name__fi>humanekologiska linjen</name__fi>
+                    <name__fi>musiklinjen</name__fi>
+                    <name__fi>bildkonstlinjen</name__fi>
+                    <name__fi>Opetuskieli</name__fi>
+                    <children>
+                        <name__fi>ruotsinkielinen lukiokoulutus</name__fi>
+                    </children>
+                </children>
+                <name__fi>Yleislinjan lukiokoulutus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B-latina</name__fi>
+                        <name__fi>A-suomi</name__fi>
+                        <name__fi>A-englanti</name__fi>
+                        <name__fi>A-saksa</name__fi>
+                        <name__fi>A-ranska</name__fi>
+                        <name__fi>B-suomi</name__fi>
+                        <name__fi>B-englanti</name__fi>
+                        <name__fi>B-saksa</name__fi>
+                        <name__fi>B-ranska</name__fi>
+                        <name__fi>B-venäjä</name__fi>
+                        <name__fi>B-espanja</name__fi>
+                    </children>
+                    <name__fi>ruotsinkielinen lukiokoulutus</name__fi>
+                </children>
+            </children>
+            <name__fi>Suomen- ja vieraskielinen nuorten lukiokoulutus 2014-2015</name__fi>
+            <children>
+                <name__fi>Kaksoistutkinto</name__fi>
+                <name__fi>Yleislinjan lukiokoulutus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B-japani</name__fi>
+                        <name__fi>A-ruotsi</name__fi>
+                        <name__fi>A-englanti</name__fi>
+                        <name__fi>A-saksa</name__fi>
+                        <name__fi>A-ranska</name__fi>
+                        <name__fi>A-venäjä</name__fi>
+                        <name__fi>A-kiina</name__fi>
+                        <name__fi>A-espanja</name__fi>
+                        <name__fi>B-ruotsi</name__fi>
+                        <name__fi>B-englanti</name__fi>
+                        <name__fi>B-saksa</name__fi>
+                        <name__fi>B-ranska</name__fi>
+                        <name__fi>B-venäjä</name__fi>
+                        <name__fi>B-kiina</name__fi>
+                        <name__fi>B-espanja</name__fi>
+                        <name__fi>B-italia</name__fi>
+                        <name__fi>B-latina</name__fi>
+                    </children>
+                    <name__fi>suomenkielinen lukiokoulutus</name__fi>
+                    <name__fi>englanninkielinen lukiokoulutus</name__fi>
+                    <name__fi>saksankielinen lukiokoulutus</name__fi>
+                    <name__fi>Painotus</name__fi>
+                    <children>
+                        <name__fi>painotus ranskan kieli ja kulttuuri</name__fi>
+                        <name__fi>painotus media</name__fi>
+                        <name__fi>painotus tiede ja tutkimus</name__fi>
+                        <name__fi>painotus tanssi</name__fi>
+                        <name__fi>painotus logistiikka</name__fi>
+                        <name__fi>painotus kuvataide</name__fi>
+                        <name__fi>painotus kirjallisuus</name__fi>
+                        <name__fi>painotus liikunta</name__fi>
+                        <name__fi>painotus taide</name__fi>
+                        <name__fi>painotus luonnontiede</name__fi>
+                    </children>
+                </children>
+                <name__fi>Erityistehtävän mukainen lukiokoulutus</name__fi>
+                <children>
+                    <name__fi>Kieliohjelma</name__fi>
+                    <children>
+                        <name__fi>B-japani</name__fi>
+                        <name__fi>A-suomi</name__fi>
+                        <name__fi>A-ruotsi</name__fi>
+                        <name__fi>A-englanti</name__fi>
+                        <name__fi>A-saksa</name__fi>
+                        <name__fi>A-ranska</name__fi>
+                        <name__fi>A-venäjä</name__fi>
+                        <name__fi>A-kiina</name__fi>
+                        <name__fi>A-espanja</name__fi>
+                        <name__fi>B-suomi</name__fi>
+                        <name__fi>B-ruotsi</name__fi>
+                        <name__fi>B-englanti</name__fi>
+                        <name__fi>B-saksa</name__fi>
+                        <name__fi>B-ranska</name__fi>
+                        <name__fi>B-venäjä</name__fi>
+                        <name__fi>B-kiina</name__fi>
+                        <name__fi>B-espanja</name__fi>
+                        <name__fi>B-italia</name__fi>
+                        <name__fi>B-latina</name__fi>
+                    </children>
+                    <name__fi>kuvataide ja multimedia</name__fi>
+                    <name__fi>luonnontiede</name__fi>
+                    <name__fi>kielet</name__fi>
+                    <name__fi>ilmaisutaito</name__fi>
+                    <name__fi>urheilu</name__fi>
+                    <name__fi>IB</name__fi>
+                    <name__fi>musiikki</name__fi>
+                    <name__fi>matematiikka</name__fi>
+                    <name__fi>steinerpedagogiikan mukainen lukiokoulutus</name__fi>
+                    <name__fi>erityistehtävän mukainen taito- ja taideaineet</name__fi>
+                    <name__fi>erityistehtävän mukainen EB</name__fi>
+                    <name__fi>erityistehtävän mukainen AICE</name__fi>
+                    <name__fi>Opetuskieli</name__fi>
+                    <children>
+                        <name__fi>ranskankielinen lukiokoulutus</name__fi>
+                        <name__fi>suomenkielinen lukiokoulutus</name__fi>
+                        <name__fi>englanninkielinen lukiokoulutus</name__fi>
+                    </children>
+                </children>
+            </children>
+        </children>
+        <name__fi>Nuorten ammatillinen koulutus</name__fi>
+        <children>
+            <name__fi>Ammattistartti 2014-2015</name__fi>
+            <name__fi>Peruskoulutus 2014-2015</name__fi>
+            <children>
+                <name__fi>Verhoilu- ja sisustusalan perustutkinto, sisustaja</name__fi>
+                <name__fi>Audiovisuaalisen viestinnän perustutkinto, media-assistentti</name__fi>
+                <name__fi>Autoalan perustutkinto, ajoneuvoasentaja</name__fi>
+                <name__fi>Autoalan perustutkinto, autokorinkorjaaja</name__fi>
+                <name__fi>Autoalan perustutkinto, automaalari</name__fi>
+                <name__fi>Autoalan perustutkinto, automyyjä</name__fi>
+                <name__fi>Autoalan perustutkinto, varaosamyyjä</name__fi>
+                <name__fi>Autoalan perustutkonto, pienkonekorjaaja</name__fi>
+                <name__fi>Elintarvikealan perustutkinto, leipuri-kondiittori</name__fi>
+                <name__fi>Hammastekniikan perustutkinto, hammaslaborantti</name__fi>
+                <name__fi>Hiusalan perustutkinto, parturi-kampaaja</name__fi>
+                <name__fi>Hotelli-, ravintola- ja catering-alan perustutkinto, kokki</name__fi>
+                <name__fi>Hotelli-, ravintola- ja catering-alan perustutkinto, tarjoilija</name__fi>
+                <name__fi>Kauneudenhoitoalan perustutkinto, kosmetologi</name__fi>
+                <name__fi>Kauneudenhoitoalan perustutkinto, kosmetiikkaneuvoja</name__fi>
+                <name__fi>Kone- ja metallialan perustutkinto, levyseppähitsaaja</name__fi>
+                <name__fi>Kone- ja metallialan perustutkinto, koneistaja</name__fi>
+                <name__fi>Kone- ja metallialan perustutkinto, koneenasentaja</name__fi>
+                <name__fi>Kotitalousopetus</name__fi>
+                <name__fi>Laboratorioalan perustutkinto, laborantti</name__fi>
+                <name__fi>Logistiikan perustutkinto, autonkuljettaja</name__fi>
+                <name__fi>Logistiikan perustutkinto, linja-auton kuljettaja</name__fi>
+                <name__fi>Logistiikan perustutkinto, varastonhoitaja</name__fi>
+                <name__fi>Logistiikan perustutkinto, yhdistelmäajoneuvon kuljettaja</name__fi>
+                <name__fi>Lääkealan perustutkinto, farmanomi</name__fi>
+                <name__fi>Lääkealan perustutkinto, lääketeknikko</name__fi>
+                <name__fi>Maanmittausalan perustutkinto, kartoittaja</name__fi>
+                <name__fi>Matkailualan perustutkinto, matkailupalvelujen tuottaja</name__fi>
+                <name__fi>Muu tekniikan ja liikenteen alan koulutus</name__fi>
+                <name__fi>Painoviestinnän perustutkinto, painotuotantoassistentti</name__fi>
+                <name__fi>Pintakäsittelyalan perustutkinto, maalari</name__fi>
+                <name__fi>Prosessiteollisuuden perustutkinto, prosessinhoitaja</name__fi>
+                <name__fi>Puualan perustutkinto, puuseppä</name__fi>
+                <name__fi>Rakennusalan perustutkinto, talonrakentaja</name__fi>
+                <name__fi>Sosiaali- ja terveysalan perustutkinto, lähihoitaja</name__fi>
+                <name__fi>Suunnitteluassistentin perustutkinto, suunnitteluassistentti</name__fi>
+                <name__fi>Sähköalan perustutkinto, automaatioasentaja</name__fi>
+                <name__fi>Sähköalan perustutkinto, sähköasentaja</name__fi>
+                <name__fi>Talotekniikan perustutkinto, ilmanvaihtoasentaja</name__fi>
+                <name__fi>Talotekniikan perustutkinto, kylmäasentaja</name__fi>
+                <name__fi>Talotekniikan perustutkinto, putkiasentaja</name__fi>
+                <name__fi>Tieto- ja tietoliikennetekniikan perustutkinto, elektroniikka-asentaja</name__fi>
+                <name__fi>Tieto- ja tietoliikennetekniikan perustutkinto, ICT-asentaja</name__fi>
+                <name__fi>Turvallisuusalan perustutkinto, turvallisuusvalvoja</name__fi>
+                <name__fi>Vaatetusalan perustutkinto, modisti</name__fi>
+                <name__fi>Vaatetusalan perustutkinto, sisustusompelija</name__fi>
+                <name__fi>Vaatetusalan perustutkinto, vaatturi</name__fi>
+                <name__fi>Vaatetusalan perustutkinto, vaatetusompelija</name__fi>
+                <name__fi>Verhoilu- ja sisustusalan perustutkinto, verhoilija</name__fi>
+            </children>
+            <name__fi>Maahanmuuttajien valmistava koulutus 2014-2015</name__fi>
+        </children>
+        <name__fi>Nuorten työpajatoiminta</name__fi>
+        <children>
+            <name__fi>Lukuvuosi 2014-2015</name__fi>
+            <children>
+                <name__fi>Viestintäpaja</name__fi>
+                <name__fi>Ammattistartti</name__fi>
+                <name__fi>Audiopaja</name__fi>
+                <name__fi>Auto- ja metalliala</name__fi>
+                <name__fi>Autopaja</name__fi>
+                <name__fi>Bändipaja</name__fi>
+                <name__fi>Kahvila-, tekstiili- ja teatteriala</name__fi>
+                <name__fi>Media-ala</name__fi>
+                <name__fi>Metallipaja</name__fi>
+                <name__fi>Puuala</name__fi>
+                <name__fi>Puupaja</name__fi>
+                <name__fi>Starttipaja</name__fi>
+                <name__fi>Tekstiilipaja</name__fi>
+                <name__fi>Videopaja</name__fi>
+            </children>
+        </children>
+        <name__fi>Aikuiskoulutus</name__fi>
+        <children>
+            <name__fi>Aikuisten ammatillinen koulutus 2014-2015</name__fi>
+            <children>
+                <name__fi>Lisäkoulutus</name__fi>
+                <children>
+                    <name__fi>Valokuvaajan ammattitutkinto</name__fi>
+                    <name__fi>Kondiittorimestarin erikoisammattitutkinto</name__fi>
+                    <name__fi>Kondiittorin ammattitutkinto</name__fi>
+                    <name__fi>Leipurimestarin erikoisammattitutkinto</name__fi>
+                    <name__fi>Leipurin ammattitutkinto</name__fi>
+                    <name__fi>Linja-autonkuljettajan ammattitutkinto</name__fi>
+                    <name__fi>Painopinnanvalmistajan ammattitutkinto</name__fi>
+                    <name__fi>Teatterialan ammattitutkinto, maskeeraaja</name__fi>
+                    <name__fi>Vaatetusalan erikoisammattitutkinto, pukeutumisneuvoja</name__fi>
+                </children>
+                <name__fi>Peruskoulutus</name__fi>
+                <children>
+                    <name__fi>Verhoilu- ja sisustusalan perustutkinto, verhoilija</name__fi>
+                    <name__fi>Audiovisuaalisen viestinnän perustutkinto, media-assistentti</name__fi>
+                    <name__fi>Elintarvikealan perustutkinto, leipuri-kondiittori</name__fi>
+                    <name__fi>Hammastekniikan perustutkinto, hammaslaborantti</name__fi>
+                    <name__fi>Hiusalan perustutkinto, parturi-kampaaja</name__fi>
+                    <name__fi>Hotelli-, ravintola- ja catering-alan perustutkinto, kokki</name__fi>
+                    <name__fi>Hotelli-, ravintola- ja catering-alan perustutkinto, tarjoilija</name__fi>
+                    <name__fi>Kauneudenhoitoalan perustutkinto, kosmetologi</name__fi>
+                    <name__fi>Kone- ja metallialan perustutkinto, levyseppähitsaaja</name__fi>
+                    <name__fi>Kone- ja metallialan perustutkinto, koneistaja</name__fi>
+                    <name__fi>Kone- ja metallialan perustutkinto, koneenasentaja</name__fi>
+                    <name__fi>Laboratorioalan perustutkinto, laborantti</name__fi>
+                    <name__fi>Lääkealan perustutkinto, farmanomi</name__fi>
+                    <name__fi>Lääkealan perustutkinto, lääketeknikko</name__fi>
+                    <name__fi>Painoviestinnän perustutkinto, painotuotantoassistentti</name__fi>
+                    <name__fi>Prosessitellisuuden perustutkinto, prosessinhoitaja</name__fi>
+                    <name__fi>Puualan perustutkinto, puuseppä</name__fi>
+                    <name__fi>Sosiaali- ja terveysalan perustutkinto, lähihoitaja</name__fi>
+                    <name__fi>Sähköalan perustutkinto, sähköasentaja</name__fi>
+                    <name__fi>Vaatetusalan perustutkinto, vaatetusompelija</name__fi>
+                </children>
+            </children>
+            <name__fi>Suomen- ja vieraskielinen aikuisten perus- ja lukiokoulutus 2014-2015</name__fi>
+            <children>
+                <name__fi>Kaksoistutkinto</name__fi>
+                <name__fi>Aikuisten lukiokoulutus</name__fi>
+                <name__fi>Aikuisten peruskoulutus</name__fi>
+                <name__fi>Aikuisten lisäopetus (10. luokka)</name__fi>
+                <name__fi>Aikuisten lukioaineiden opetus</name__fi>
+                <name__fi>Aikuisten peruskouluaineiden opetus</name__fi>
+            </children>
+            <name__fi>Ruotsinkielinen aikuisten perus- ja lukiokoulutus 2014-2015</name__fi>
+            <children>
+                <name__fi>Aikuisten peruskouluaineiden opetus</name__fi>
+                <name__fi>Aikuisten lukiokoulutus</name__fi>
+                <name__fi>Aikuisten peruskoulutus</name__fi>
+                <name__fi>Aikuisten lukioaineiden opetus</name__fi>
+            </children>
+        </children>
+        <name__fi>Oppisopimuskoulutus</name__fi>
+        <children>
+            <name__fi>Ammatillinen koulutus oppisopimuksella 2014-2015</name__fi>
+        </children>
+        <name__fi>Ammattikorkeakoulut</name__fi>
+        <name__fi>Yliopistot</name__fi>
+        <name__fi>Vapaa sivistystyö</name__fi>
+        <children>
+            <name__fi>Raamattuopisto</name__fi>
+            <name__fi>Työväenopisto</name__fi>
+            <children>
+                <name__fi>Tietotekniikan mikrotuvat</name__fi>
+                <name__fi>Asiakaspalvelu</name__fi>
+                <name__fi>Alueopistot</name__fi>
+                <name__fi>Opetuspaikat</name__fi>
+                <name__fi>Kirjasto</name__fi>
+                <name__fi>Aino, avoin oppimiskeskus</name__fi>
+                <name__fi>Kielten mikrotuvat</name__fi>
+            </children>
+            <name__fi>Arbetarinstitutet</name__fi>
+            <children>
+                <name__fi>Undervisning</name__fi>
+                <name__fi>Kundbetjäning</name__fi>
+                <name__fi>Biblioteket</name__fi>
+            </children>
+            <name__fi>InnoOmnia</name__fi>
+            <name__fi>Kristillinen koulu</name__fi>
+            <name__fi>Kuvataidekoulu</name__fi>
+            <name__fi>Musiikkiopisto</name__fi>
+        </children>
+        <name__fi>Oppilas- ja opiskelijahuolto</name__fi>
+        <children>
+            <name__fi>Koulukuraattori</name__fi>
+            <name__fi>Koulu- ja opiskeluterveydenhuolto</name__fi>
+        </children>
+        <name__fi>Koulu- ja opiskelijaruokailu</name__fi>
+        <name__fi>Oppilaan ja opiskelijan tuet</name__fi>
+    </children>
+    <name__fi>Oikeusturva ja demokratia</name__fi>
+    <children>
+        <name__fi>Järjestötoiminta</name__fi>
+        <name__fi>Oikeusturva</name__fi>
+        <children>
+            <name__fi>Tuomioistuimet</name__fi>
+            <name__fi>Avioliitto ja rekisteröity parisuhde</name__fi>
+            <children>
+                <name__fi>Siviilivihkiminen</name__fi>
+                <name__fi>Avioehto</name__fi>
+                <name__fi>Parisuhteen rekisteröinti</name__fi>
+            </children>
+            <name__fi>Edunvalvonta</name__fi>
+            <name__fi>Kotikunta- ja väestötiedot</name__fi>
+            <name__fi>Kuluttajansuoja ja neuvonta</name__fi>
+            <name__fi>Nimiasiat</name__fi>
+            <name__fi>Perinnönjako</name__fi>
+            <name__fi>Oikeusaputoimistot</name__fi>
+            <name__fi>Ulosottovirastot</name__fi>
+        </children>
+        <name__fi>Demokratia</name__fi>
+        <children>
+            <name__fi>Päätöksenteko</name__fi>
+            <children>
+                <name__fi>Lautakunnat ja johtokunnat</name__fi>
+                <name__fi>Kaupunginhallituksen ja kaupunginvaltuuston valmistelutehtävät</name__fi>
+                <name__fi>Kaupunginhallitus</name__fi>
+                <name__fi>Kaupunginvaltuusto</name__fi>
+                <name__fi>Valtuustoryhmät, kansalaislähetystöt</name__fi>
+            </children>
+            <name__fi>Vaalit ja äänestäminen</name__fi>
+            <children>
+                <name__fi>Äänioikeusrekisteri</name__fi>
+                <name__fi>Keskusvaalilautakunta</name__fi>
+            </children>
+        </children>
+    </children>
+    <name__fi>Perhe- ja sosiaalipalvelut</name__fi>
+    <children>
+        <name__fi>Asiakaspalvelu ja neuvonta</name__fi>
+        <children>
+            <name__fi>Ikääntyvien neuvonta</name__fi>
+            <name__fi>Sosiaali- ja terveyspalvelujen neuvonta</name__fi>
+        </children>
+        <name__fi>Lastensuojelu</name__fi>
+        <children>
+            <name__fi>Lastensuojelun perhehoito</name__fi>
+            <name__fi>Lastensuojelun sosiaalityö</name__fi>
+            <name__fi>Lastensuojelun laitospalvelu</name__fi>
+        </children>
+        <name__fi>Muut perheiden palvelut</name__fi>
+        <children>
+            <name__fi>Perheoikeudelliset palvelut</name__fi>
+            <name__fi>Lapsiperheiden sosiaaliohjaus</name__fi>
+            <name__fi>Perheneuvonta ja perheneuvolatoiminta</name__fi>
+            <name__fi>Lapsiperheiden kotipalvelu</name__fi>
+        </children>
+        <name__fi>Lapsiperheen tuet</name__fi>
+        <name__fi>Vammaispalvelut</name__fi>
+        <children>
+            <name__fi>Vammaistuet ja -palvelut</name__fi>
+            <name__fi>Vammaispalvelun sosiaalityö</name__fi>
+            <name__fi>Vammaispalvelun tukihenkilö</name__fi>
+            <name__fi>Vammaispalvelun sosiaaliohjaus</name__fi>
+            <name__fi>Vammaispalvelun päivätoiminta</name__fi>
+            <name__fi>Vammaispalvelun asumispalvelut</name__fi>
+            <name__fi>Vammaispalvelun tulkkipalvelu</name__fi>
+            <name__fi>Vammaispalvelulain mukainen kuljetuspalvelu</name__fi>
+            <name__fi>Vammaispalvelun omaishoidon tuki</name__fi>
+            <name__fi>Vammaispalvelun asunnon muutostyöt</name__fi>
+            <name__fi>Vammaispalvelun henkilökohtainen apu</name__fi>
+        </children>
+        <name__fi>Kehitysvammahuolto</name__fi>
+        <children>
+            <name__fi>Turvapuhelinpalvelut</name__fi>
+            <name__fi>Kehitysvammahuollon sosiaalityö</name__fi>
+            <name__fi>Kehitysvammahuollon sosiaaliohjaus</name__fi>
+            <name__fi>Kehitysvammahuollon päivätoiminta</name__fi>
+            <name__fi>Kehitysvammahuollon työllistämispalvelut</name__fi>
+            <name__fi>Kehitysvammahuollon asumispalvelut</name__fi>
+            <name__fi>Kehitysvammahuollon laitospalvelu</name__fi>
+            <name__fi>Kehitysvammahuollon loma- ja harrastustoiminta</name__fi>
+            <name__fi>Kehitysvammahuollon taloudellinen tuki</name__fi>
+        </children>
+        <name__fi>Vanhuspalvelu</name__fi>
+        <children>
+            <name__fi>Kotihoito</name__fi>
+            <name__fi>Vanhuspalvelun sosiaalityö</name__fi>
+            <name__fi>Vanhusten päivätoiminta</name__fi>
+            <name__fi>Vanhusten palvelukeskustoiminta</name__fi>
+            <name__fi>Vanhusten itsenäinen asuminen</name__fi>
+            <name__fi>Vanhusten palveluasuminen</name__fi>
+            <name__fi>Vanhusten palveluasuminen, yksityinen</name__fi>
+            <name__fi>Vanhusten laitospalvelu</name__fi>
+            <name__fi>Vanhuspalvelun omaishoidon tuki</name__fi>
+            <name__fi>Turvapuhelinpalvelut</name__fi>
+            <name__fi>Elä ja asu -keskukset</name__fi>
+        </children>
+        <name__fi>Päihdepalvelut</name__fi>
+        <children>
+            <name__fi>Selviämishoitoasema</name__fi>
+            <name__fi>Päihdehuollon sosiaalityö</name__fi>
+            <name__fi>Päihdehuollon polikliininen hoito</name__fi>
+            <name__fi>Päihdehuollon korvaushoito</name__fi>
+            <name__fi>Päihdehuollon päivätoiminta</name__fi>
+            <name__fi>Päihdehuollon asumispalvelut</name__fi>
+            <name__fi>Päihdehuollon katkaisuhoito ja kuntoutus</name__fi>
+        </children>
+        <name__fi>Toimeentulotuki</name__fi>
+        <children>
+            <name__fi>Kuntouttava työtoiminta</name__fi>
+            <name__fi>Aikuisten sosiaalityö</name__fi>
+            <name__fi>Etuuskäsittely</name__fi>
+            <name__fi>Aikuisten sosiaaliohjaus</name__fi>
+            <name__fi>Toimeentulotuki</name__fi>
+        </children>
+        <name__fi>Muu sosiaalihuolto</name__fi>
+        <children>
+            <name__fi>Talous- ja velkaneuvonta</name__fi>
+            <name__fi>Aikuisten sosiaalityö</name__fi>
+            <name__fi>Alueellinen kumppanuustyö</name__fi>
+            <name__fi>Aikuisten sosiaaliohjaus</name__fi>
+            <name__fi>Työhön kuntoutus- ja työllistämispalvelut</name__fi>
+            <name__fi>Kuntouttava työtoiminta</name__fi>
+            <name__fi>Muun sosiaalihuollon asumispalvelut</name__fi>
+            <name__fi>Muun sosiaalihuollon asumispalvelut, osto</name__fi>
+            <name__fi>Sosiaalihuoltolain mukainen kuljetuspalvelu</name__fi>
+            <name__fi>Sosiaalinen luotto</name__fi>
+            <name__fi>Eläkeselvitystoiminta</name__fi>
+            <name__fi>Sovittelutoiminta</name__fi>
+            <name__fi>Maahanmuuttajapalvelut</name__fi>
+            <name__fi>Maahanmuuttajapalvelut, osto</name__fi>
+        </children>
+        <name__fi>Yhteiset tukipalvelut</name__fi>
+        <name__fi>Hoitoalan ruokapalvelut</name__fi>
+        <name__fi>Työllisyyden hoitaminen</name__fi>
+        <children>
+            <name__fi>Kuntouttava työtoiminta</name__fi>
+            <name__fi>Työllistämispalvelut</name__fi>
+            <name__fi>Työhön kuntoutus- ja työllistämispalvelut</name__fi>
+        </children>
+        <name__fi>Hallinto</name__fi>
+    </children>
+    <name__fi>Terveys</name__fi>
+    <children>
+        <name__fi>Päihdepalvelut</name__fi>
+        <children>
+            <name__fi>Päihdehuollon katkaisuhoito ja kuntoutus</name__fi>
+            <name__fi>Selviämishoitoasema</name__fi>
+            <name__fi>Päihdehuollon sosiaalityö</name__fi>
+            <name__fi>Päihdehuollon polikliininen hoito</name__fi>
+            <name__fi>Päihdehuollon korvaushoito</name__fi>
+            <name__fi>Päihdehuollon päivätoiminta</name__fi>
+            <name__fi>Päihdehuollon asumispalvelut</name__fi>
+        </children>
+        <name__fi>Terveysasemat</name__fi>
+        <name__fi>Lääkärin vastaanotto</name__fi>
+        <name__fi>Terveydenhoitajan vastaanotto</name__fi>
+        <name__fi>Työterveyshuolto</name__fi>
+        <name__fi>Hammashoito</name__fi>
+        <name__fi>Kotihoito</name__fi>
+        <name__fi>Koulu- ja opiskeluterveydenhuolto</name__fi>
+        <name__fi>Tartuntaudit</name__fi>
+        <name__fi>Myrkytystietoa</name__fi>
+        <name__fi>Päivystys</name__fi>
+        <children>
+            <name__fi>Päivystyksen vuodeosastot</name__fi>
+            <name__fi>Lasten terveyskeskuspäivystys  ja päivystyspoliklinikka</name__fi>
+            <name__fi>Aikuisten terveyskeskuspäivystys ja päivystyspoliklinikka</name__fi>
+        </children>
+        <name__fi>Neuvolat</name__fi>
+        <children>
+            <name__fi>Vammaisneuvola</name__fi>
+            <name__fi>Äitiysneuvola</name__fi>
+            <name__fi>Lastenneuvola</name__fi>
+            <name__fi>Perhesuunnittelu ja ehkäisyneuvola</name__fi>
+        </children>
+        <name__fi>Sairaalat</name__fi>
+        <children>
+            <name__fi>HUS - HYKS-sairaalat</name__fi>
+            <name__fi>Sairaaloiden poliklinikat</name__fi>
+            <name__fi>Kaupunginsairaalat</name__fi>
+            <name__fi>Kaupungin psykiatrinen sairaala</name__fi>
+            <name__fi>Kotisairaalat</name__fi>
+            <name__fi>Päiväsairaala</name__fi>
+            <name__fi>Synnytyssairaalat</name__fi>
+        </children>
+        <name__fi>Laboratorio</name__fi>
+        <name__fi>Röntgen</name__fi>
+        <name__fi>Mielenterveyspalvelut</name__fi>
+        <children>
+            <name__fi>HUS:n erikoissairaanhoito</name__fi>
+            <name__fi>Psykiatrian poliklinikat</name__fi>
+            <name__fi>Psykiatrinen päiväsairaala</name__fi>
+            <name__fi>Psykiatrinen asumiskuntoutus</name__fi>
+            <name__fi>Akuuttipsykiatria</name__fi>
+            <name__fi>Kuntoutuspsykiatria</name__fi>
+        </children>
+        <name__fi>Kuntoutus</name__fi>
+        <children>
+            <name__fi>Lääkinnällinen kuntoutus</name__fi>
+            <name__fi>Fysiatria</name__fi>
+            <name__fi>Neurologia</name__fi>
+            <name__fi>Fysioterapia</name__fi>
+            <name__fi>Toimintaterapia</name__fi>
+            <name__fi>Apuvälinepalvelut</name__fi>
+            <name__fi>Rintamavetaraanien kuntoutus</name__fi>
+            <name__fi>Kuntoutuksen vuodeosastopalvelut</name__fi>
+            <name__fi>Kuntoutussuunnittelu ja -ohjaus</name__fi>
+            <name__fi>Puheterapia</name__fi>
+        </children>
+        <name__fi>Fysioterapia</name__fi>
+        <name__fi>Puheterapia</name__fi>
+        <name__fi>Ravitsemusterapia</name__fi>
+        <name__fi>Jalkojenhoito</name__fi>
+        <name__fi>Kuulontutkimus</name__fi>
+        <name__fi>Omahoitotarvikejakelu</name__fi>
+        <name__fi>Silmätaudit</name__fi>
+        <name__fi>Seulontatutkimukset</name__fi>
+        <children>
+            <name__fi>Kohdunkaulan syövän seulontatutkimukset</name__fi>
+            <name__fi>Rintasyövän seulontatutkimukset</name__fi>
+        </children>
+        <name__fi>Hallintopalvelut</name__fi>
+        <children>
+            <name__fi>Potilasasiamies</name__fi>
+        </children>
+        <name__fi>Terveyspalvelujen sähköinen asiointi ja lomakkeet</name__fi>
+        <name__fi>Asiakaspalvelu ja neuvonta</name__fi>
+        <children>
+            <name__fi>Sosiaali- ja terveyspalvelujen neuvonta</name__fi>
+        </children>
+    </children>
+    <name__fi>Liikenne</name__fi>
+    <children>
+        <name__fi>Sähköautojen latauspisteet</name__fi>
+        <name__fi>Joukkoliikenne</name__fi>
+        <children>
+            <name__fi>Julkisen liikenteen varikot</name__fi>
+            <name__fi>Rautatieasemat</name__fi>
+            <name__fi>Metroasemat</name__fi>
+            <name__fi>Asiakaspalvelu ja lipunmyynti</name__fi>
+            <name__fi>Matkalippujen tarkastus</name__fi>
+        </children>
+        <name__fi>Tilausajot</name__fi>
+        <name__fi>Pysäköinti</name__fi>
+        <children>
+            <name__fi>Pysäköintilippuautomaatit</name__fi>
+            <name__fi>Pysäköinninvalvonta</name__fi>
+            <name__fi>Ajoneuvojen siirrot</name__fi>
+            <name__fi>Asukas- ja yrityspysäköintitunnukset</name__fi>
+        </children>
+        <name__fi>Tiet ja kadut</name__fi>
+        <children>
+            <name__fi>Katu-, maa- ja viherrakentamispalvelut</name__fi>
+            <name__fi>Katujen puhtaanapito ja talvikunnossapito</name__fi>
+            <name__fi>Katujen ja viheralueiden käyttöluvat ja vuokraus</name__fi>
+            <name__fi>Katujen ja viheralueiden suunnittelu ja rakennuttaminen</name__fi>
+            <name__fi>Tierakenteiden tiiviys- ja kantavuusmittaus</name__fi>
+        </children>
+        <name__fi>Vesiliikenne</name__fi>
+        <children>
+            <name__fi>Vesikulkuneuvorekisteri</name__fi>
+            <name__fi>Satamat ja laiturit</name__fi>
+            <children>
+                <name__fi>Hallintopalvelut</name__fi>
+                <name__fi>Venesatamat</name__fi>
+                <name__fi>Terminaalit</name__fi>
+                <name__fi>Kansainvälisten risteilyalusten laiturit</name__fi>
+            </children>
+            <name__fi>Veneily</name__fi>
+            <children>
+                <name__fi>Ulkoilusaaret</name__fi>
+            </children>
+        </children>
+        <name__fi>Liikennesuunnittelu</name__fi>
+        <children>
+            <name__fi>Liikenteen ohjaus, liikennevalot</name__fi>
+            <name__fi>Liikennesuunnittelu</name__fi>
+        </children>
+        <name__fi>Liikenteenhallintakeskus</name__fi>
+        <name__fi>Löytötavarapalvelu</name__fi>
+    </children>
+    <name__fi>Liikunta</name__fi>
+    <children>
+        <name__fi>Eläinurheilualueet</name__fi>
+        <children>
+            <name__fi>Hevosurheilu</name__fi>
+            <children>
+                <name__fi>Ravirata</name__fi>
+                <name__fi>Ratsastuskenttä</name__fi>
+                <name__fi>Ratsastusmaneesi</name__fi>
+                <name__fi>Esteratsastuskenttä</name__fi>
+            </children>
+        </children>
+        <name__fi>Leikkipuistot</name__fi>
+        <name__fi>Liikuntapalvelujen sähköinen asiointi ja lomakkeet</name__fi>
+        <name__fi>Virkistyskohteet ja palvelut</name__fi>
+        <children>
+            <name__fi>Retkeilyn palvelut</name__fi>
+            <children>
+                <name__fi>Opastuspiste</name__fi>
+                <name__fi>Luontotorni</name__fi>
+                <name__fi>Kalastusalue / -paikka</name__fi>
+                <name__fi>Venesatama</name__fi>
+                <name__fi>Ruoanlaittopaikka</name__fi>
+                <name__fi>Telttailu ja leiriytyminen</name__fi>
+                <name__fi>Tupa</name__fi>
+                <name__fi>Ulkoilumaja  /  hiihtomaja</name__fi>
+            </children>
+            <name__fi>Virkistys- ja retkeilyalueet</name__fi>
+            <children>
+                <name__fi>Ulkoilualue</name__fi>
+            </children>
+        </children>
+        <name__fi>Ulkokentät ja liikuntapuistot</name__fi>
+        <children>
+            <name__fi>Golfkentät</name__fi>
+            <children>
+                <name__fi>Ratagolf</name__fi>
+                <name__fi>Golfin harjoitusalue</name__fi>
+                <name__fi>Golfkenttä</name__fi>
+                <name__fi>Golfin harjoitushalli</name__fi>
+            </children>
+            <name__fi>Lähiliikunta ja liikuntapuistot</name__fi>
+            <children>
+                <name__fi>Pyöräilyrata</name__fi>
+                <name__fi>Lähiliikuntapaikka</name__fi>
+                <name__fi>Ulkokuntoiluvälineet</name__fi>
+                <name__fi>Parkour- alue</name__fi>
+                <name__fi>Skeitti / rullaluistelupaikka</name__fi>
+                <name__fi>Pyöräilyalue</name__fi>
+            </children>
+            <name__fi>Yleisurheilukentät ja -paikat</name__fi>
+            <children>
+                <name__fi>Yleisurheilukenttä</name__fi>
+                <name__fi>Yleisurheilun harjoitusalue</name__fi>
+            </children>
+            <name__fi>Pallokentät</name__fi>
+            <children>
+                <name__fi>Rullakiekkokenttä</name__fi>
+                <name__fi>Koripallokenttä</name__fi>
+                <name__fi>Lentopallokenttä</name__fi>
+                <name__fi>Beachvolleykenttä</name__fi>
+                <name__fi>Pallokenttä</name__fi>
+                <name__fi>Jalkapallostadion</name__fi>
+                <name__fi>Pesäpallostadion</name__fi>
+                <name__fi>Tenniskenttäalue</name__fi>
+            </children>
+            <name__fi>Jääurheilualueet ja luonnonjäät</name__fi>
+            <children>
+                <name__fi>Luistelureitti</name__fi>
+                <name__fi>Tekojääkenttä</name__fi>
+                <name__fi>Luistelukenttä</name__fi>
+                <name__fi>Kaukalo</name__fi>
+            </children>
+        </children>
+        <name__fi>Sisäliikuntatilat</name__fi>
+        <children>
+            <name__fi>Keilahallit</name__fi>
+            <children>
+                <name__fi>Keilahalli</name__fi>
+            </children>
+            <name__fi>Jäähallit</name__fi>
+            <children>
+                <name__fi>Kilpajäähalli</name__fi>
+                <name__fi>Harjoitusjäähalli</name__fi>
+            </children>
+            <name__fi>Kuntoilukeskukset ja liikuntasalit</name__fi>
+            <children>
+                <name__fi>Liikuntasali</name__fi>
+                <name__fi>Kuntokeskus</name__fi>
+                <name__fi>Kuntosali</name__fi>
+                <name__fi>Voimailusali</name__fi>
+                <name__fi>Kamppailulajien sali</name__fi>
+            </children>
+            <name__fi>Liikuntahallit</name__fi>
+            <children>
+                <name__fi>Tennishalli</name__fi>
+                <name__fi>Liikuntahalli</name__fi>
+                <name__fi>Monitoimihalli / areena</name__fi>
+                <name__fi>Jalkapallohalli</name__fi>
+                <name__fi>Salibandyhalli</name__fi>
+                <name__fi>Skeittihalli</name__fi>
+                <name__fi>Sulkapallohalli</name__fi>
+                <name__fi>Squash-halli</name__fi>
+            </children>
+            <name__fi>Yksittäiset lajikohtaiset sisäliikuntapaikat</name__fi>
+            <children>
+                <name__fi>Sisäkiipeilyseinä</name__fi>
+                <name__fi>Yksittäinen yleisurheilun suorituspaikka</name__fi>
+                <name__fi>Telinevoimistelutila</name__fi>
+                <name__fi>Pöytätennistila</name__fi>
+                <name__fi>Miekkailutila</name__fi>
+                <name__fi>Tanssitila</name__fi>
+                <name__fi>Sisäampumarata</name__fi>
+            </children>
+        </children>
+        <name__fi>Vesiliikuntapaikat</name__fi>
+        <children>
+            <name__fi>Maauimalat ja uimarannat</name__fi>
+            <children>
+                <name__fi>Talviuintipaikka</name__fi>
+                <name__fi>Maauimala</name__fi>
+                <name__fi>Uimaranta</name__fi>
+                <name__fi>Uimapaikka</name__fi>
+            </children>
+            <name__fi>Uima-altaat, hallit ja kylpylät</name__fi>
+            <children>
+                <name__fi>Kylpylä</name__fi>
+                <name__fi>Uimahalli</name__fi>
+                <name__fi>Uima-allas</name__fi>
+            </children>
+        </children>
+        <name__fi>Maastoliikuntapaikat</name__fi>
+        <children>
+            <name__fi>Ampumaurheilupaikat</name__fi>
+            <children>
+                <name__fi>Jousiammuntamaastorata</name__fi>
+                <name__fi>Ampumarata</name__fi>
+                <name__fi>Jousiammuntarata</name__fi>
+            </children>
+            <name__fi>Laskettelurinteet ja rinnehiihtokeskukset</name__fi>
+            <children>
+                <name__fi>Laskettelun suorituspaikat</name__fi>
+            </children>
+            <name__fi>Katetut talviurheilupaikat</name__fi>
+            <children>
+                <name__fi>Hiihtotunneli</name__fi>
+            </children>
+            <name__fi>Liiikunta- ja ulkoilureitit</name__fi>
+            <children>
+                <name__fi>Frisbeegolf - rata</name__fi>
+            </children>
+            <name__fi>Maastohiihtokeskukset</name__fi>
+            <children>
+                <name__fi>Hiihtomaa</name__fi>
+                <name__fi>Kilpahiihtokeskus</name__fi>
+            </children>
+        </children>
+        <name__fi>Vene-, ilmailu- ja moottoriurheilu</name__fi>
+        <children>
+            <name__fi>Moottoriurheilualueet</name__fi>
+            <children>
+                <name__fi>Jokamies- ja rallicross -rata</name__fi>
+                <name__fi>Moottoriurheilukeskus</name__fi>
+                <name__fi>Moottoripyöräilyalue</name__fi>
+                <name__fi>Karting-rata</name__fi>
+            </children>
+            <name__fi>Veneurheilupaikat</name__fi>
+            <children>
+                <name__fi>Soudun ja melonnan sisäharjoittelutila</name__fi>
+                <name__fi>Soutustadion</name__fi>
+                <name__fi>Purjehdusalue</name__fi>
+                <name__fi>Moottoriveneurheilualue</name__fi>
+            </children>
+            <name__fi>Urheiluilmailualueet</name__fi>
+            <children>
+                <name__fi>Urheiluilmailualue</name__fi>
+            </children>
+        </children>
+    </children>
+</list>
