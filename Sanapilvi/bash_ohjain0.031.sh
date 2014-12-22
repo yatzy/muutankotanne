@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# FIRST: declare luettava = 'polku_tekstitiedostoon'
+
 rivittaja="/home/yatzy/Dropbox/opiskelu/Tekstinlouhinta/Hurmio/r_poista_erikoismerkit_ja_rivita.R"
 
 # luetaan R:ään
@@ -7,7 +9,7 @@ rivittaja="/home/yatzy/Dropbox/opiskelu/Tekstinlouhinta/Hurmio/r_poista_erikoism
 echo '!!!!!!!!!!! R aloittaa !!!!!!!!!!! '
 Rscript --vanilla $rivittaja $luettava
 
-# 
+#
 echo '!!!!!!!!!!! Malaga aloittaa !!!!!!!!!!! '
 tiedosto_malagalle="${luettava}_rout.txt"
 echo 'Malaga lukee tiedoston tiedostosta'
@@ -33,6 +35,3 @@ cat $tiedosto_malagalle |  malaga suomi.pro -m > $malaga_ulos
 
 
 echo 'Malaga valmis'
-
-
-cd /home/yatzy/Dropbox/opiskelu/Tekstinlouhinta/Hurmio
