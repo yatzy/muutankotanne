@@ -10,10 +10,11 @@ use_base_packages = function(package_list){
 
 use_base_package('devtools')
 
-use_github_package <- function(package) {
-   if (!is.element(package, installed.packages()[,1]))
+use_github_package = function(package) {
+   package_name = strsplit( package ,'/' )[[1]][2]
+   if (!is.element(package_name, installed.packages()[,1]))
       install_github(package)
-   require(package, character.only = TRUE)
+   require(package_name, character.only = TRUE)
 }
 
 use_github_packages = function(package_list){
@@ -21,12 +22,14 @@ use_github_packages = function(package_list){
 }
 
 ############# ADD NEEDED PACKAGES TO THIS LIST
-base_libraries = c('httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' 
-              ,'jsonlite' ,'leafletR','htmlwidgets' ,'magrittr', 'networkD3')
-use_packages(base_libraries)
+base_libraries = c('shiny','httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' , 'stringr'
+              ,'jsonlite' ,'leafletR','htmlwidgets' ,'magrittr', 'networkD3'
+              , 'pbapply', 'scrapeR' ,'repmis' , 'tm.plugin.webmining','rjson'
+              , 'stringr', 'rvest','stringi')
+use_base_packages(base_libraries)
 
 ############# ADD NEEDED GITHUB PACKAGES TO THIS LIST
 github_libraries = c('jcheng5/leaflet-shiny' , 'trestletech/ShinyDash'
-                     ,'rstudio/leaflet','jjallaire/sigma')
+                     ,'rstudio/leaflet' , 'jjallaire/sigma' , 'ramnathv/rCharts')
 use_github_packages(github_libraries)
 

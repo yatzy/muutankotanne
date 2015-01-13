@@ -1,7 +1,4 @@
-library(shiny)
-
-# Define server logic required to draw a histogram
-shinyServer( function(input, output, session) {
+shinyServer( function(input, output) {
    
    #map <- createLeafletMap(session, 'map')
    
