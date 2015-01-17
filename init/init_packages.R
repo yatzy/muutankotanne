@@ -23,13 +23,17 @@ use_github_packages = function(package_list){
 
 ############# ADD NEEDED PACKAGES TO THIS LIST
 base_libraries = c('shiny','httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' , 'stringr'
-              ,'jsonlite' ,'leafletR','htmlwidgets' ,'magrittr', 'networkD3'
+              ,'jsonlite' ,'htmlwidgets' ,'magrittr', 'networkD3'
               , 'pbapply', 'scrapeR' ,'repmis' , 'tm.plugin.webmining','rjson'
               , 'stringr', 'rvest','stringi')
+# no ,'leafletR'
 use_base_packages(base_libraries)
 
 ############# ADD NEEDED GITHUB PACKAGES TO THIS LIST
-github_libraries = c('jcheng5/leaflet-shiny' , 'trestletech/ShinyDash'
-                     ,'rstudio/leaflet' , 'jjallaire/sigma' , 'ramnathv/rCharts')
+github_libraries = c( 'trestletech/ShinyDash'
+                     ,'rstudio/leaflet','rstudio/htmlwidgets' , 'jjallaire/sigma' 
+                     ,'rstudio/shinythemes')
+# 'jcheng5/leaflet-shiny' # server down as tried13.1.2015
+# 'ramnathv/rCharts' inferes rstudio's shiny library
 use_github_packages(github_libraries)
 
