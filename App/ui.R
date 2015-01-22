@@ -1,3 +1,13 @@
+sourceDir <- function (path, pattern = "\\.[rR]$", env = NULL, chdir = TRUE) 
+{
+   files <- sort(dir(path, pattern, full.names = TRUE))
+   lapply(files, source, chdir = chdir)
+}
+
+
+
+#source('init_packages.R')
+
 
 shinyUI(
    navbarPage("Muutanko tänne?"
@@ -12,10 +22,10 @@ shinyUI(
                                 #, includeScript("gomap.js")
                              )
                              
-                             ,   leafletMap("map", width="100%", height="100%"
-                                            , initialTileLayer = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png"
-                                            , initialTileLayerAttribution = HTML('Maps by <a href="http://www.mapbox.com/">Mapbox</a>')
-                                            , options=list(
+                             ,   leafletMap("map", width="100%", height="100%",
+                                            initialTileLayer = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
+                                            initialTileLayerAttribution = HTML('Maps by <a href="http://www.mapbox.com/">Mapbox</a>'),
+                                            options=list(
                                                center = c(60.21,24.95)
                                                , zoom = 12
                                                , maxBounds = list(list(60.42450, 24.42330)
@@ -23,45 +33,34 @@ shinyUI(
                              )
                              
                              
-                             
-                             ############### Vasemman puolen paneeli ###############
-                             
+                             # Vasemman puolen paneeli
                              , absolutePanel( 
-                                ########## panel settings
-                                fixed = F, draggable = FALSE
+                                fixed = TRUE, draggable = FALSE
                                 , id = "controls"
                                 #, class = "modal"
                                 , top = 60, left = 40 , right = "auto" , bottom = "auto"
-                                , width = 330, height = "auto"
+                                , width = 330, height = "auto",
                                 
-                                ########## panel 
+                                h3("Koti-osoite")
                                 
-                                , h3("Koti-osoite")
+                                    # typeahead thingie, not too functional
+#                                 , textInput.typeahead(
+#                                    id="kotiosoite_from_ui"
+#                                    ,placeholder="type 'name' or '2'"
+#                                    ,local=data.frame(name=c("name1","name2"),info=c("info1","info2"))
+#                                    ,valueKey = "name"
+#                                    ,tokens=c(1,2)
+#                                    ,template = HTML("ad")
+#                                 )
+                                
                                 , textInput("kotiosoite_from_ui", label = p(""), value = "Kotiosoite") 
-                                ,if(MARKERS){
-                                #                                  ,actionLink('randomLocation', 'Go to random location')
-                                checkboxInput('addMarkerOnClick', 'Add marker on click', FALSE)
-                                }
-                                
-                                , if(DEBUG){
-                                   #textOutput( "kotiosoite" )
-                                   textOutput("kotiosoite_coord")
-                                }
-                                ,if(MARKERS){
-                                   conditionalPanel(
-                                      condition = 'output.markers',
-                                      h4('Marker locations'),
-                                      actionLink('clearMarkers', 'Clear markers')
-                                   )
-                                   tableOutput('markers')
-                                }                       
-                                
+                                , textOutput("kotiosoite")
                                 
                                 # tulospaneeli käyttäjän osoitteen jälkeen
-                                
+
                                 , conditionalPanel(
                                    condition = "input.kotiosoite_from_ui != 'Kotiosoite'"
-                                   , h5('Hyvin menee')
+                                   , h5('Täällähän menee hiton hyvin')
                                 )
                                 
                                 , conditionalPanel(
@@ -72,10 +71,9 @@ shinyUI(
                                 
                              )
                              
-                             ############### Oikean puolen paneeli ###############
-                             
+                             # Oikean puolen paneeli
                              , absolutePanel(  
-                                fixed = F, draggable = FALSE
+                                fixed = TRUE, draggable = FALSE
                                 , id = "controls"
                                 #, class = "modal"
                                 , top = 60, left = "auto", right = 40, bottom = "auto",
@@ -84,6 +82,7 @@ shinyUI(
                                 h3("Muutto-osoite")
                                 
                                 , textInput("muutto_osoite_from_ui", label = p(""), value = "Muutto-osoite") 
+                                , textOutput( "muutto_osoite" )
                                 
                                 , conditionalPanel(
                                    condition = "input.muutto_osoite_from_ui != 'Muutto-osoite'"
@@ -95,11 +94,7 @@ shinyUI(
                                 , conditionalPanel(
                                    condition = "input.muutto_osoite_from_ui != 'Muutto-osoite'"
                                    , plotOutput( "muutto_pic" )
-                                )
-                                
-                                
-                                
-                                ############### ensimmäisen välilehden loppu ###############
+                                )                                                  
                              )
                              
                          )
