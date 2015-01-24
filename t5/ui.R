@@ -1,3 +1,16 @@
+if(file.exists("/home/yatzy/Applications/muutankotanne/App/")==TRUE){
+   setwd("/home/yatzy/Applications/muutankotanne/App/")
+} else if( file.exists("/home/kurkku/Applications/muutankotanne/App/")==TRUE ){
+   setwd('/home/kurkku/Applications/muutankotanne/App/')
+}
+
+source('init/init_packages.R')
+source('AlueMap/aluemap.R')
+
+# parameters
+DEBUG =T
+MARKERS=T
+
 
 shinyUI(
    navbarPage("Muutanko tänne?"
