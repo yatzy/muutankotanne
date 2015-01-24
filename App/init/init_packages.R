@@ -1,6 +1,6 @@
 use_base_package <- function(package) {
    if (!is.element(package, installed.packages()[,1]))
-      install.packages(package, dep = TRUE)
+      install.packages(package, dep = TRUE, repos="http://cran.rstudio.com/")
    require(package, character.only = TRUE)
 }
 
