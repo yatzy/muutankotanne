@@ -23,11 +23,11 @@ use_github_packages = function(package_list){
 
 ############# ADD NEEDED PACKAGES TO THIS LIST
 base_libraries = c('shiny','httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' , 'stringr'
-              ,'jsonlite' ,'htmlwidgets' ,'magrittr', 'networkD3' ,'dplyr'
+              ,'jsonlite' ,'htmlwidgets' ,'magrittr', 'networkD3' 
               , 'pbapply', 'scrapeR' ,'repmis' , 'tm.plugin.webmining','rjson'
               , 'stringr', 'rvest','stringi','RColorBrewer','scales','lattice'
               , 'ShinyDash')
-# no ,'leafletR'
+# no ,'leafletR' ,'dplyr'
 use_base_packages(base_libraries)
 
 ############# ADD NEEDED GITHUB PACKAGES TO THIS LIST
