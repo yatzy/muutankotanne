@@ -31,7 +31,7 @@ base_libraries = c('shiny','httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' , 'strin
 use_base_packages(base_libraries)
 
 ############# ADD NEEDED GITHUB PACKAGES TO THIS LIST
-github_libraries = c( 'trestletech/ShinyDash'
+github_libraries = c( 'trestletech/ShinyDash' #,'jcheng5/leaflet-shiny'
                      ,'rstudio/leaflet','rstudio/htmlwidgets' , 'jjallaire/sigma' 
                      ,'rstudio/shinythemes')
 # 'jcheng5/leaflet-shiny' # server down as tried13.1.2015
@@ -39,3 +39,9 @@ github_libraries = c( 'trestletech/ShinyDash'
 # 'AnalytixWare/ShinySky'
 use_github_packages(github_libraries)
 
+use_leaflet <- function() {
+   if (!is.element('leaflet', installed.packages()[,1]))
+      install_git('https://github.com/jcheng5/leaflet-shiny')
+   require('leaflet', character.only = TRUE)
+}
+use_leaflet()

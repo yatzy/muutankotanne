@@ -1,8 +1,13 @@
 if(file.exists("/home/yatzy/Applications/muutankotanne/App/")==TRUE){
    setwd("/home/yatzy/Applications/muutankotanne/App/")
+} else if( file.exists("/home/kurkku/Applications/muutankotanne/App/")==TRUE ){
+   setwd('/home/kurkku/Applications/muutankotanne/App/')
 }
+
 source('init/init_packages.R')
 source('AlueMap/aluemap.R')
+
+# parameters
 DEBUG =T
 MARKERS=T
 
@@ -45,8 +50,6 @@ shinyServer(function(input, output, session) {
    output$kotiosoite_coord = renderPrint( reverse_geocode_nominatim( input$kotiosoite_from_ui )[c('lat','lon')] )
    output$muutto_osoite_coord = renderPrint(reverse_geocode_nominatim( input$muutto_osoite_from_ui )[c('lat','lon')] )   
    
-   
-   
    if(MARKERS){
       ##################### markers #####################
       
@@ -66,8 +69,7 @@ shinyServer(function(input, output, session) {
          map$clearMarkers()
          values$markers <- NULL
       })
-      
-      
+           
       output$markers <- renderTable({
          if (is.null(values$markers))
             return(NULL)
