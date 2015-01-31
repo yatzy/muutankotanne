@@ -1,7 +1,5 @@
 
 sukija_path = '/home/yatzy/Applications/suomi-malaga-1.13/sukija'
-library(stringr)
-library(pbapply)
 
 get_sukija_inflection =  function( sana , sukija_path= '/home/yatzy/Applications/suomi-malaga-1.13/sukija'  ){
    return( 
@@ -27,7 +25,6 @@ strip_sukija_inflection = function( sukija_object ){
 #             , sep=" " , what="character")
 
 
-text = readLines(con = '/home/yatzy/Applications/muutankotanne/Sanapilvi/teksti.txt' )
 
 preprocess_text = function( text ){
    text = str_replace_all( tolower( gsub('-' , ' ' , text) ) , "[[:punct:]]" , "")
@@ -35,7 +32,6 @@ preprocess_text = function( text ){
    text = text[ nchar(text) > 1 ]
 }
 
-toolo = preprocess_text(text)
 
 sukija_inflection = function(string , in_multicore=F){
    strip_sukija_inflection(get_sukija_inflection(string))
@@ -53,7 +49,13 @@ inflect_finnish = function( word_vector , multicore=F ){
    }
 }
 
-toolo2 = toolo[1:20]
-asdf = inflect_finnish(toolo2)
-asdf = inflect_finnish(toolo)
-asdf = inflect_finnish(toolo , multicore=T)
+
+# Example
+# text = readLines(con = '/home/yatzy/Applications/muutankotanne/Sanapilvi/teksti.txt' )
+# toolo = preprocess_text(text)
+# 
+# 
+# toolo2 = toolo[1:20]
+# asdf = inflect_finnish(toolo2)
+# asdf = inflect_finnish(toolo)
+# asdf = inflect_finnish(toolo , multicore=T)
