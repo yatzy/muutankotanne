@@ -1,1 +1,0 @@
-SUBDIRS = imagery_classification imagery_opencv imagery_photogrammetry imagery_rga imagery_segmentation imagery_svm imagery_tools imagery_vigra
