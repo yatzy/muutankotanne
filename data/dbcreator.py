@@ -60,7 +60,7 @@ class DBCreator:
                 if len(child.getchildren()) > 0:
                     datalist = []
                     for subchild in child.getchildren():
-                        datalist.append('{%s}' % subchild.text)
+                        datalist.append(subchild.text)
                     data[child.tag] = string.join(datalist, ' ')
                 elif child.text == None:
                     data[child.tag] = ''
