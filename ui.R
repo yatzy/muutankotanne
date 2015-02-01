@@ -49,15 +49,15 @@ shinyUI(
                                 
                                 ########## panel 
                                 
-                                , h3("Kotiosoite")
+                                , h3("Koti-osoite")
                                 , textInput("kotiosoite_from_ui", label = p(""), value = "Kotiosoite") 
                                 ,if(MARKERS){
-                                #                                 ,actionLink('randomLocation', 'Go to random location')
+                                #                                  ,actionLink('randomLocation', 'Go to random location')
                                 checkboxInput('addMarkerOnClick', 'Add marker on click', FALSE)
                                 }
                                 
                                 , if(DEBUG){
-                                   textOutput( "kotiosoite" )
+                                   #textOutput( "kotiosoite" )
                                    textOutput("kotiosoite_coord")
                                 }
                                 ,if(MARKERS){
