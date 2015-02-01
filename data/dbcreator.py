@@ -1,4 +1,3 @@
-
 import sqlite3
 from lxml import etree
 import string
@@ -6,10 +5,15 @@ import string
 class DBCreator:
     
     def __init__(self, sqlfile):
+        """
+        DBCreator creates SQLite databases.
+
+        
+        """
         self.sqlfile = sqlfile
 
     def sqlConnection(funct):
-        def connectionWrapper(*args,**kwargs):  
+        def connectionWrapper(*args,**kwargs):
             try:
                 conn = sqlite3.connect(args[0].sqlfile)
                 c = conn.cursor()
@@ -56,7 +60,7 @@ class DBCreator:
                 if len(child.getchildren()) > 0:
                     datalist = []
                     for subchild in child.getchildren():
-                        datalist.append(subchild.text)
+                        datalist.append('{%s}' % subchild.text)
                     data[child.tag] = string.join(datalist, ' ')
                 elif child.text == None:
                     data[child.tag] = ''
@@ -74,13 +78,14 @@ class DBCreator:
 
 if __name__=='__main__':
     
+    # Helsinki Palvelukartta REST-API
+    # http://www.hel.fi/palvelukarttaws/rest/ver2.html
 
     unit_map    =   {
                     'id':'PRIMARY KEY',
                     'org__id':'INT',
                     'provider__type':'INT',
                     'service__ids':'TEXT',
-                    'sources':'TEXT',
                     'name__fi':'TEXT',
                     'name__sv':'TEXT',
                     'name__en':'TEXT',
@@ -95,7 +100,7 @@ if __name__=='__main__':
                     'name__fi':'TEXT',
                     'name__sv':'TEXT',
                     'name__en':'TEXT',
-                    'unit_ids':'TEXT'
+                    'unit__ids':'TEXT'
                     }
 
 

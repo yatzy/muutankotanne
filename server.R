@@ -5,7 +5,7 @@ if(file.exists("/home/yatzy/Applications/muutankotanne/App/")==TRUE){
 }
 
 source('init/init_packages.R')
-source('AlueMap/aluemap.R')
+source('scripts/aluemap.R')
 
 # parameters
 DEBUG =T
