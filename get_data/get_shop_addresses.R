@@ -72,4 +72,4 @@ address_df
 
 legit_paikkakunnat = c('helsinki' , 'espoo' , 'vantaa' , 'kauniainen')
 shops_pk =  address_df[ tolower(as.character(address_df$Paikkakunta)) %in% legit_paikkakunnat ,  ]
-write.csv(shops_pk , file='shops_pk.csv')
+write.csv(shops_pk , file='/home/yatzy/Applications/muutankotanne/get_data/shops_pk.csv')
