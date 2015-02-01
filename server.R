@@ -47,15 +47,15 @@ shinyServer(function(input, output, session) {
    output$koti_pic = renderPlot(plot(1:10))
    output$muutto_pic = renderPlot(plot(10:1))
    
-#    koti_coord = reactive({reverse_geocode_nominatim( input$kotiosoite_from_ui )[c('lat','lon')] })
-#    if(DEBUG){
-#       print(koti_coord)
-#    }
+   koti_coord = reactive({reverse_geocode_nominatim( input$kotiosoite_from_ui )[c('lat','lon')] })
+   if(DEBUG){
+      print(koti_coord)
+   }
    
-#    muutto_coord = reactive({reverse_geocode_nominatim( input$muutto_osoite_from_ui )[c('lat','lon')] })
+   muutto_coord = reactive({reverse_geocode_nominatim( input$muutto_osoite_from_ui )[c('lat','lon')] })
    
-#    koti_coordinates = reactiveValues( lat = reverse_geocode_nominatim( input$muutto_osoite_from_ui )['lat']
-#                                  , lon = reverse_geocode_nominatim( input$muutto_osoite_from_ui )['lon'] )
+   koti_coordinates = reactiveValues( lat = reverse_geocode_nominatim( input$muutto_osoite_from_ui )['lat']
+                                 , lon = reverse_geocode_nominatim( input$muutto_osoite_from_ui )['lon'] )
    
    lat = observe(reverse_geocode_nominatim( input$muutto_osoite_from_ui )['lat'] )
    lon = observe(reverse_geocode_nominatim( input$muutto_osoite_from_ui )['lon'] )
