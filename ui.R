@@ -1,7 +1,7 @@
-if(file.exists("/home/yatzy/Applications/muutankotanne/App/")==TRUE){
-   setwd("/home/yatzy/Applications/muutankotanne/App/")
-} else if( file.exists("/home/kurkku/Applications/muutankotanne/App/")==TRUE ){
-   setwd('/home/kurkku/Applications/muutankotanne/App/')
+if(file.exists("/home/yatzy/Applications/muutankotanne/")==TRUE){
+   setwd("/home/yatzy/Applications/muutankotanne/")
+} else if( file.exists("/home/kurkku/Applications/muutankotanne/")==TRUE ){
+   setwd('/home/kurkku/Applications/muutankotanne/')
 }
 
 source('init/init_packages.R')

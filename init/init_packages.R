@@ -26,11 +26,11 @@ shiny_libraries = c('shiny' , 'jsonlite')
 use_base_packages(shiny_libraries)
 
 # ############# ADD NEEDED PACKAGES TO THIS LIST
-# base_libraries = c('shiny','httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' , 'stringr'
-#               ,'jsonlite' ,'htmlwidgets' ,'magrittr', 'networkD3' 
-#               , 'pbapply', 'scrapeR' ,'repmis' , 'tm.plugin.webmining','rjson'
-#               , 'stringr', 'rvest','stringi','RColorBrewer','scales','lattice'
-#               , 'ShinyDash')
+base_libraries = c('shiny','httr' , 'RCurl' ,'XML' , 'ggplot2' , 'maps' , 'stringr'
+              ,'jsonlite' ,'htmlwidgets' ,'magrittr', 'networkD3' 
+              , 'pbapply', 'scrapeR' ,'repmis' , 'tm.plugin.webmining','rjson'
+              , 'stringr', 'rvest','stringi','RColorBrewer','scales','lattice'
+              , 'ShinyDash')
 # # no ,'leafletR' ,'dplyr'
 # use_base_packages(base_libraries)
 
