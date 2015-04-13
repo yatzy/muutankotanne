@@ -1,21 +1,26 @@
-import sqlite3
+import psycopg2
 from lxml import etree
 import string
+import argparse
+from getpass import getpass
 
 class DBCreator:
     
-    def __init__(self, sqlfile):
+    def __init__(self, server):
         """
-        DBCreator creates SQLite databases.
+        DBCreator creates postgresql tables.
 
         
         """
-        self.sqlfile = sqlfile
+        self.server = server
+        self.password = password
+        self.username   = 'muutanko'
+        self.database = 'muutankotanne'
 
     def sqlConnection(funct):
         def connectionWrapper(*args,**kwargs):
             try:
-                conn = sqlite3.connect(args[0].sqlfile)
+                conn = psycopg2.connect(database=self.database, user=self.username, password=self.password)
                 c = conn.cursor()
                 command,datas = funct(*args, **kwargs)
                 if len(datas) > 0:
@@ -24,11 +29,12 @@ class DBCreator:
                 else:
                     c.execute(command)
                 conn.commit()
+                c.close()
                 conn.close()
             except Exception,e:
                 print e
         return connectionWrapper
-
+    """
     @sqlConnection
     def createTable(self, tablename, columns, columntypes):
         formats = []
@@ -75,11 +81,15 @@ class DBCreator:
             insertdatas.append(insertdata)
         
         return insertstr, insertdatas
-
+    """
 if __name__=='__main__':
     
     # Helsinki Palvelukartta REST-API
     # http://www.hel.fi/palvelukarttaws/rest/ver2.html
+    parser = argparse.ArgumentParser(description="Creates tables to 'muutankotanne' database.")
+    parser.add_argument('server', nargs=1)
+    
+    args = parser.parse_args()
 
     unit_map    =   {
                     'id':'PRIMARY KEY',
@@ -103,11 +113,13 @@ if __name__=='__main__':
                     'unit__ids':'TEXT'
                     }
 
-
-    db = DBCreator('muutankotanne.db')
+    # Ask for password
+    password = getpass()
+                    
+    db = DBCreator(server,password)
     columns, types = zip(*unit_map.items())
-    db.createTable('units', columns, types)
-    db.insertXMLData('units', 'palvelukartta_toimipisteet.xml', columns)
+    #db.createTable('units', columns, types)
+    #db.insertXMLData('units', 'palvelukartta_toimipisteet.xml', columns)
     columns, types = zip(*service_map.items())
-    db.createTable('services', columns, types)
-    db.insertXMLData('services', 'palvelukartta_palvelut.xml', columns)
+    #db.createTable('services', columns, types)
+    #db.insertXMLData('services', 'palvelukartta_palvelut.xml', columns)
